@@ -1,0 +1,1173 @@
+,date,id,rawContent,renderedContent,user,hashtags,lang
+0,2023-01-19 23:59:00+00:00,1616223731533094912,"#100DaysOfCodeChallenge #100DaysOfCode #SoftwareDeveloper #WomenWhoCode #codinglife
+
+Day 19/100
+-Solved SubarraySumsDivisiblebyK on #Leetcode
+-#Packages in Java
+-Working on Todo App in #Django with #Python","#100DaysOfCodeChallenge #100DaysOfCode #SoftwareDeveloper #WomenWhoCode #codinglife
+
+Day 19/100
+-Solved SubarraySumsDivisiblebyK on #Leetcode
+-#Packages in Java
+-Working on Todo App in #Django with #Python","{'username': 'Sukhmanjeetkau2', 'id': 860025761167572993, 'displayname': 'Sukhmanjeetkaur', 'rawDescription': 'Software Developer Aspirant', 'renderedDescription': 'Software Developer Aspirant', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 5, 4, 6, 58, 14, tzinfo=datetime.timezone.utc), 'followersCount': 38, 'friendsCount': 243, 'statusesCount': 95, 'favouritesCount': 28, 'listedCount': 0, 'mediaCount': 2, 'location': 'Birmingham, England', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1585976643360882688/LE9FYGVD_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/860025761167572993/1666961198', 'label': None}","['100DaysOfCodeChallenge', '100DaysOfCode', 'SoftwareDeveloper', 'WomenWhoCode', 'codinglife', 'Leetcode', 'Packages', 'Django', 'Python']",en
+1,2023-01-19 23:57:56+00:00,1616223465044078592,"Pandas Map Function to Series in Python - https://t.co/QHu3yNHCMZ (PythonForBeginner...)
+
+The pandas' map() method is used to map dictionaries or functions to pandas series or datafr...
+
+Add your highlights:
+https://t.co/9QgWBhCFvP
+ #Python","Pandas Map Function to Series in Python - PythonForBeginners.com (PythonForBeginner...)
+
+The pandas' map() method is used to map dictionaries or functions to pandas series or datafr...
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+2,2023-01-19 23:57:51+00:00,1616223444735242242,"Multi-Region Python Applications (Testdriven)
+
+This article looks at how to enable multi-region support in a Python application.
+
+Add your highlights:
+https://t.co/mrCtn7hVKi
+ #Python","Multi-Region Python Applications (Testdriven)
+
+This article looks at how to enable multi-region support in a Python application.
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+3,2023-01-19 23:57:49+00:00,1616223435075485700,"""Quick tip: Accessing #SingleStoreDB using the #Python Client"" by Akmal Chaudhri #DEVCommunity https://t.co/2OVCxZF1tk","""Quick tip: Accessing #SingleStoreDB using the #Python Client"" by Akmal Chaudhri #DEVCommunity dev.to/singlestore/qu…","{'username': 'akmalchaudhri', 'id': 859466935, 'displayname': 'Akmal Chaudhri, Esq.', 'rawDescription': '🥑 Senior Technical Evangelist @ SingleStore', 'renderedDescription': '🥑 Senior Technical Evangelist @ SingleStore', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2012, 10, 3, 10, 8, 26, tzinfo=datetime.timezone.utc), 'followersCount': 1406, 'friendsCount': 1274, 'statusesCount': 10798, 'favouritesCount': 11674, 'listedCount': 189, 'mediaCount': 101, 'location': 'Tickle Town, River Tum ㋡', 'protected': False, 'link': {'text': 'about.me/akmalchaudhri', 'url': 'http://about.me/akmalchaudhri', 'tcourl': 'https://t.co/us7iT2CHJt', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/424578212878774272/XAVqVBpx_normal.jpeg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/859466935/1587172776', 'label': None}","['SingleStoreDB', 'Python', 'DEVCommunity']",en
+4,2023-01-19 23:57:36+00:00,1616223381552074754,"Hire our writers for the best grades in your papers.
+✓nursing
+✓essays..
+✓chemistry.........
+✓finance
+✓physics
+✓biology
+#Python 
+✓physics
+✓chemistry
+✓algebra
+✓calculus 1,2 
+✓essay pay
+Assignment due
+Dm us kindly @RealProfession4","Hire our writers for the best grades in your papers.
+✓nursing
+✓essays..
+✓chemistry.........
+✓finance
+✓physics
+✓biology
+#Python 
+✓physics
+✓chemistry
+✓algebra
+✓calculus 1,2 
+✓essay pay
+Assignment due
+Dm us kindly @RealProfession4","{'username': 'RealProfession4', 'id': 1400051450965807108, 'displayname': '🎓💯 PRECIOUS TUTORS', 'rawDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'renderedDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 6, 2, 11, 28, 3, tzinfo=datetime.timezone.utc), 'followersCount': 442, 'friendsCount': 733, 'statusesCount': 21813, 'favouritesCount': 304, 'listedCount': 0, 'mediaCount': 28, 'location': 'United States', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1575617556966264833/4o_VAxx4_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1400051450965807108/1663771664', 'label': None}",['Python'],en
+5,2023-01-19 23:56:51+00:00,1616223192489541634,Flask Web Development: Developing Web Applications with Python https://t.co/nqx1Zflr2X  #Python #ad,Flask Web Development: Developing Web Applications with Python zpy.io/a03d5347  #Python #ad,"{'username': 'pythonbot_', 'id': 726709023563747328, 'displayname': 'Python Flux', 'rawDescription': 'Everything about #Python programming language !', 'renderedDescription': 'Everything about #Python programming language !', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2016, 5, 1, 9, 45, 7, tzinfo=datetime.timezone.utc), 'followersCount': 17430, 'friendsCount': 5789, 'statusesCount': 218915, 'favouritesCount': 4, 'listedCount': 550, 'mediaCount': 14, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/726714034066706433/5NWdOzpJ_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/726709023563747328/1504969738', 'label': None}","['Python', 'ad']",en
+6,2023-01-19 23:55:26+00:00,1616222835541774338,"Easily build 🏗️ your own website with these 7 websites
+
+Link:  https://t.co/TeJIFCtvum
+
+#programming #python #softwareengineer #softwaredeveloper 
+#developers #webdev #softwaredevelopment #webdevelopment #computerscience
+#computerscience #programming #softwareengineer","Easily build 🏗️ your own website with these 7 websites
+
+Link:  youtu.be/F-kyUr_IshY
+
+#programming #python #softwareengineer #softwaredeveloper 
+#developers #webdev #softwaredevelopment #webdevelopment #computerscience
+#computerscience #programming #softwareengineer","{'username': 'Mahmoud42275', 'id': 1463304368438996996, 'displayname': 'Mahmoud EL-Kariouny', 'rawDescription': 'Software-Developer\n#python #django #flask #sql  #javascript #vue\n#database', 'renderedDescription': 'Software-Developer\n#python #django #flask #sql  #javascript #vue\n#database', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 11, 24, 0, 32, 53, tzinfo=datetime.timezone.utc), 'followersCount': 36, 'friendsCount': 319, 'statusesCount': 201, 'favouritesCount': 284, 'listedCount': 2, 'mediaCount': 59, 'location': '', 'protected': False, 'link': {'text': 'clear-sleet.surge.sh', 'url': 'https://clear-sleet.surge.sh/', 'tcourl': 'https://t.co/6Ne7k0ols2', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1463304795347988483/DwqXSe8G_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1463304368438996996/1643721863', 'label': None}","['programming', 'python', 'softwareengineer', 'softwaredeveloper', 'developers', 'webdev', 'softwaredevelopment', 'webdevelopment', 'computerscience', 'computerscience', 'programming', 'softwareengineer']",en
+7,2023-01-19 23:53:26+00:00,1616222332586020867,Python Number Processing And Data Structures For Finance https://t.co/JVowcVkHZG #Python #pythonprogramming #Finance,Python Number Processing And Data Structures For Finance vegibit.com/python-number-… #Python #pythonprogramming #Finance,"{'username': 'vegibit', 'id': 1278380054, 'displayname': 'vegibit 💻', 'rawDescription': 'The best content on the latest technology!  #AI #Python #Programming #WebDevelopment #IoT #DataScience #MachineLearning #InformationTechnology', 'renderedDescription': 'The best content on the latest technology!  #AI #Python #Programming #WebDevelopment #IoT #DataScience #MachineLearning #InformationTechnology', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2013, 3, 18, 17, 56, 29, tzinfo=datetime.timezone.utc), 'followersCount': 1638, 'friendsCount': 1657, 'statusesCount': 4320, 'favouritesCount': 1148, 'listedCount': 231, 'mediaCount': 33, 'location': '', 'protected': False, 'link': {'text': 'vegibit.com', 'url': 'https://vegibit.com', 'tcourl': 'https://t.co/MCV1HYtRZn', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1607479576673886208/IGKq3U9f_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1278380054/1672072675', 'label': None}","['Python', 'pythonprogramming', 'Finance']",en
+8,2023-01-19 23:53:18+00:00,1616222299161501699,"#Essay
+#Exam
+#Project
+#Book review
+#Tests
+#econometrics
+#PaperPay
+#Research paper
+#javascript
+#quiz
+#python
+#Online class
+#History
+#Homework 
+#Philosophy
+#WomenWhoCode
+#Assignment
+#Statistics 
+DM 
+@essay_tutors24 
+WhatsApp +1 (256) 649-9989 https://t.co/MWMbeqSlm0","#Essay
+#Exam
+#Project
+#Book review
+#Tests
+#econometrics
+#PaperPay
+#Research paper
+#javascript
+#quiz
+#python
+#Online class
+#History
+#Homework 
+#Philosophy
+#WomenWhoCode
+#Assignment
+#Statistics 
+DM 
+@essay_tutors24 
+WhatsApp +1 (256) 649-9989 https://t.co/MWMbeqSlm0","{'username': 'essay_tutors24', 'id': 823352521183858688, 'displayname': 'Excellent Homework and Assignment help', 'rawDescription': 'We are proficient in handling all forms of Assignment/homework. #biology #physic #dissertation pay #maths  #ncat&u #ncat #essay \n\n dm/WhatsApp +1 (256) 649-9989', 'renderedDescription': 'We are proficient in handling all forms of Assignment/homework. #biology #physic #dissertation pay #maths  #ncat&u #ncat #essay \n\n dm/WhatsApp +1 (256) 649-9989', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 1, 23, 2, 11, 52, tzinfo=datetime.timezone.utc), 'followersCount': 513, 'friendsCount': 2528, 'statusesCount': 7270, 'favouritesCount': 3685, 'listedCount': 1, 'mediaCount': 635, 'location': 'Georgia, USA', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1559541842903015433/AH6DVm1-_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/823352521183858688/1660658722', 'label': None}","['Essay', 'Exam', 'Project', 'Book', 'Tests', 'econometrics', 'PaperPay', 'Research', 'javascript', 'quiz', 'python', 'Online', 'History', 'Homework', 'Philosophy', 'WomenWhoCode', 'Assignment', 'Statistics']",en
+9,2023-01-19 23:52:59+00:00,1616222220422123522,"I'm back 👊. A lot of revisions on my mind to refresh my memories on AWS and ALX SE program 😉. I will be updating my daily progress reports ✍️.
+
+#AWS #C #Coding #js #Python","I'm back 👊. A lot of revisions on my mind to refresh my memories on AWS and ALX SE program 😉. I will be updating my daily progress reports ✍️.
+
+#AWS #C #Coding #js #Python","{'username': 'yalecttech', 'id': 1495912566903787521, 'displayname': 'Yahaya Azeez', 'rawDescription': 'Certified ALX-T Cloud Developer (AWS), ALx Software Engineering Student (Cohort 5, 2022) @HolbertonSchool', 'renderedDescription': 'Certified ALX-T Cloud Developer (AWS), ALx Software Engineering Student (Cohort 5, 2022) @HolbertonSchool', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 2, 22, 0, 5, 47, tzinfo=datetime.timezone.utc), 'followersCount': 18, 'friendsCount': 62, 'statusesCount': 58, 'favouritesCount': 30, 'listedCount': 1, 'mediaCount': 8, 'location': 'Lagos, Nigeria', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1513265688034660355/rhZssZn0_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1495912566903787521/1649627593', 'label': None}","['AWS', 'C', 'Coding', 'js', 'Python']",en
+10,2023-01-19 23:52:43+00:00,1616222152386043904,A #Python library that makes it simple to forecast time series https://t.co/mZzfRmSctp,A #Python library that makes it simple to forecast time series levelup.gitconnected.com/a-python-libra…,"{'username': 'DD_Serena_', 'id': 2723217086, 'displayname': 'Serena📚', 'rawDescription': 'yoga. travel. books. data science. sharing = caring. live for experiences not things. love buying things tho.', 'renderedDescription': 'yoga. travel. books. data science. sharing = caring. live for experiences not things. love buying things tho.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2014, 8, 11, 5, 16, 35, tzinfo=datetime.timezone.utc), 'followersCount': 13398, 'friendsCount': 14742, 'statusesCount': 62708, 'favouritesCount': 30939, 'listedCount': 230, 'mediaCount': 37, 'location': 'Melbourne Australia', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/835047192041684992/8dFkNWal_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/2723217086/1576129281', 'label': None}",['Python'],en
+11,2023-01-19 23:51:30+00:00,1616221844205441024,"Looking for a flexible, online way to learn Python? Our on-demand tutoring program is perfect for you! 
+
+#Python #OnDemandTutoring
+
+https://t.co/dyf7mUJNmg","Looking for a flexible, online way to learn Python? Our on-demand tutoring program is perfect for you! 
+
+#Python #OnDemandTutoring
+
+algosrus.com/blog/detail/On…","{'username': 'TradeUVXY', 'id': 946738256774705153, 'displayname': 'AlgosRus.com', 'rawDescription': ""Founder of https://t.co/vjXazAJXct & https://t.co/boK2BWhTSA DM me if you want to license our 'On Demand Service Marketplace Software' like On Demand Doctor, Nurse, Tutor, Mover etc"", 'renderedDescription': ""Founder of algosRus.com & creferral.com DM me if you want to license our 'On Demand Service Marketplace Software' like On Demand Doctor, Nurse, Tutor, Mover etc"", 'descriptionLinks': [{'text': 'algosRus.com', 'url': 'http://algosRus.com', 'tcourl': 'https://t.co/vjXazAJXct', 'indices': (11, 34)}, {'text': 'creferral.com', 'url': 'http://creferral.com', 'tcourl': 'https://t.co/boK2BWhTSA', 'indices': (37, 60)}], 'verified': False, 'created': datetime.datetime(2017, 12, 29, 13, 42, 44, tzinfo=datetime.timezone.utc), 'followersCount': 469, 'friendsCount': 3103, 'statusesCount': 6750, 'favouritesCount': 4756, 'listedCount': 9, 'mediaCount': 815, 'location': 'Seattle, WA', 'protected': False, 'link': {'text': 'algosRus.com', 'url': 'http://www.algosRus.com', 'tcourl': 'https://t.co/pFeuObracA', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1559627869206093826/z-hIebzA_normal.jpg', 'profileBannerUrl': None, 'label': None}","['Python', 'OnDemandTutoring']",en
+12,2023-01-19 23:51:20+00:00,1616221801927036929,"今日もPyQを進めたけど、内包表記などわからない文法が多く、本当にただの写経になってしまった。。
+基礎から復習し直しかなー
+
+PyQで「141-3: 対象とする単語を決めよう」の学習を完了しました！ https://t.co/6FZnBdFBAZ @pyqjpより
+
+#今日の積み上げ
+#Python
+#プログラミング勉強中","今日もPyQを進めたけど、内包表記などわからない文法が多く、本当にただの写経になってしまった。。
+基礎から復習し直しかなー
+
+PyQで「141-3: 対象とする単語を決めよう」の学習を完了しました！ pyq.jp/quests/janome_… @pyqjpより
+
+#今日の積み上げ
+#Python
+#プログラミング勉強中","{'username': 'Haru_77b', 'id': 1205118259927732224, 'displayname': 'はる|Python独学中', 'rawDescription': '30代|リベ大生🦁|プログラミング完全初心者|Pythonで業務効率化や機械学習について学習中|ProgateのPython講座完了|PyQで学習中|学習している中で良かった本・動画の紹介や学習して実装した学習録などをブログで公開中', 'renderedDescription': '30代|リベ大生🦁|プログラミング完全初心者|Pythonで業務効率化や機械学習について学習中|ProgateのPython講座完了|PyQで学習中|学習している中で良かった本・動画の紹介や学習して実装した学習録などをブログで公開中', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2019, 12, 12, 13, 34, 40, tzinfo=datetime.timezone.utc), 'followersCount': 20, 'friendsCount': 27, 'statusesCount': 66, 'favouritesCount': 125, 'listedCount': 0, 'mediaCount': 0, 'location': '', 'protected': False, 'link': {'text': 'non-engineer-study-python.com', 'url': 'https://non-engineer-study-python.com', 'tcourl': 'https://t.co/loKnF8xFkn', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1393925299377639429/5JaLLgt0_normal.jpg', 'profileBannerUrl': None, 'label': None}","['今日の積み上げ', 'Python', 'プログラミング勉強中']",ja
+13,2023-01-19 23:50:08+00:00,1616221499471405057,"Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python 
+history
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python 
+history
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","{'username': 'RealProfession4', 'id': 1400051450965807108, 'displayname': '🎓💯 PRECIOUS TUTORS', 'rawDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'renderedDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 6, 2, 11, 28, 3, tzinfo=datetime.timezone.utc), 'followersCount': 442, 'friendsCount': 733, 'statusesCount': 21813, 'favouritesCount': 304, 'listedCount': 0, 'mediaCount': 28, 'location': 'United States', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1575617556966264833/4o_VAxx4_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1400051450965807108/1663771664', 'label': None}",['Python'],en
+14,2023-01-19 23:50:03+00:00,1616221478445268994,"🚀 SpaceX is hiring Software Engineer  
+
+💰 USD 120k-170k 
+🌇 Hawthorne, CA, Redmond, WA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+https://t.co/Iu4IFs35Ar","🚀 SpaceX is hiring Software Engineer  
+
+💰 USD 120k-170k 
+🌇 Hawthorne, CA, Redmond, WA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sof…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'machinelearning', 'tech', 'softwareengineer', 'jobs']",en
+15,2023-01-19 23:50:02+00:00,1616221475677110272,"🦊 SpaceX is hiring Software Engineer  
+
+💰 USD 120k-170k 
+🌇 US, Hawthorne, CA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+https://t.co/rV9esjIqUF","🦊 SpaceX is hiring Software Engineer  
+
+💰 USD 120k-170k 
+🌇 US, Hawthorne, CA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sof…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'machinelearning', 'tech', 'softwareengineer', 'jobs']",en
+16,2023-01-19 23:50:02+00:00,1616221474443993093,"🔥 SpaceX is hiring Sr. Data Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #python #kubernetes #java #machinelearning #spark 
+
+#tech #softwareengineer #jobs 
+https://t.co/HHMeJ3W8Lw","🔥 SpaceX is hiring Sr. Data Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #python #kubernetes #java #machinelearning #spark 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'kubernetes', 'java', 'machinelearning', 'spark', 'tech', 'softwareengineer', 'jobs']",en
+17,2023-01-19 23:50:01+00:00,1616221471747051521,"👋 SpaceX is hiring Sr. Full Stack Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #FullStack #python #angular #kubernetes #postgresql 
+
+#tech #softwareengineer #jobs 
+https://t.co/1LiShi6bgx","👋 SpaceX is hiring Sr. Full Stack Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #FullStack #python #angular #kubernetes #postgresql 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['FullStack', 'python', 'angular', 'kubernetes', 'postgresql', 'tech', 'softwareengineer', 'jobs']",en
+18,2023-01-19 23:50:01+00:00,1616221470471950338,"✋ SpaceX is hiring Sr. IC Layout Design Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Redmond, WA 
+💪 #python #shell #perl #assembly 
+
+#tech #softwareengineer #jobs 
+https://t.co/bGxw8KxIBN","✋ SpaceX is hiring Sr. IC Layout Design Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Redmond, WA 
+💪 #python #shell #perl #assembly 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'shell', 'perl', 'assembly', 'tech', 'softwareengineer', 'jobs']",en
+19,2023-01-19 23:48:24+00:00,1616221066153672707,"Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python
+history.
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python
+history.
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","{'username': 'RealProfession4', 'id': 1400051450965807108, 'displayname': '🎓💯 PRECIOUS TUTORS', 'rawDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'renderedDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 6, 2, 11, 28, 3, tzinfo=datetime.timezone.utc), 'followersCount': 442, 'friendsCount': 733, 'statusesCount': 21813, 'favouritesCount': 304, 'listedCount': 0, 'mediaCount': 28, 'location': 'United States', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1575617556966264833/4o_VAxx4_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1400051450965807108/1663771664', 'label': None}",['Python'],en
+20,2023-01-19 23:47:56+00:00,1616220947320827905,"Why I Like Nox (Hynek Schlawack)
+
+Ever since I got involved with open-source Python projects, has been vital for testing packa...
+
+Add your highlights:
+https://t.co/h72iy6cQnS
+ #Python","Why I Like Nox (Hynek Schlawack)
+
+Ever since I got involved with open-source Python projects, has been vital for testing packa...
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+21,2023-01-19 23:47:55+00:00,1616220942396719105,"Socorro: Schema based overhaul of crash ingestion: retrospective (2022 (Will's Blog)
+
+Add your highlights:
+https://t.co/y1jxvzQ6YJ
+ #Python","Socorro: Schema based overhaul of crash ingestion: retrospective (2022 (Will's Blog)
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+22,2023-01-19 23:47:54+00:00,1616220937300619264,"CSS-Style Queries for... JSON? (Pythonbytes)
+
+Sponsored by Microsoft for Startups Founders Hub.Join us on YouTube at https://t.co/vIZ80WG38V...
+
+Add your highlights:
+https://t.co/3mKCC5pT5T
+ #Python","CSS-Style Queries for... JSON? (Pythonbytes)
+
+Sponsored by Microsoft for Startups Founders Hub.Join us on YouTube at pythonbytes.fm/stream...
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+23,2023-01-19 23:47:43+00:00,1616220893113626625,"ぼちぼちやりますか
+＃Python
+【pytorchでニューラルネットワーク#1】概要 https://t.co/dKUxYVWDs6 @YouTubeより","ぼちぼちやりますか
+＃Python
+【pytorchでニューラルネットワーク#1】概要 youtu.be/lIPSMxDgDT4 @YouTubeより","{'username': 'takuji1_nomura', 'id': 2886809466, 'displayname': 'オプション大好き（定年後、先物ミニと信用でお小遣い稼ぎを目指しています）', 'rawDescription': 'https://t.co/DaIu32br9i\u3000日経平均先物のトレードを中心に、ポートフォリオを作っています。\nNiziUのファンです。\nPythonというプログラミング言語に興味があります。\n#NiziU\u3000#株\u3000＃Python\n週末は、ジム、イタリアンの飯テロをやります。', 'renderedDescription': 'nkminitrade.blog.fc2.com\u3000日経平均先物のトレードを中心に、ポートフォリオを作っています。\nNiziUのファンです。\nPythonというプログラミング言語に興味があります。\n#NiziU\u3000#株\u3000＃Python\n週末は、ジム、イタリアンの飯テロをやります。', 'descriptionLinks': [{'text': 'nkminitrade.blog.fc2.com', 'url': 'http://nkminitrade.blog.fc2.com', 'tcourl': 'https://t.co/DaIu32br9i', 'indices': (0, 23)}], 'verified': False, 'created': datetime.datetime(2014, 11, 2, 1, 18, 59, tzinfo=datetime.timezone.utc), 'followersCount': 1866, 'friendsCount': 1627, 'statusesCount': 16435, 'favouritesCount': 83486, 'listedCount': 14, 'mediaCount': 1758, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1175233340808429570/-WkPbiLa_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/2886809466/1570336177', 'label': None}",['Python'],ja
+24,2023-01-19 23:46:40+00:00,1616220628494782464,"Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python 
+history.
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research
+#Python 
+history.
+Programming
+someone write.
+essay due
+term paper...
+DM us kindly for quality services @RealProfession4","{'username': 'RealProfession4', 'id': 1400051450965807108, 'displayname': '🎓💯 PRECIOUS TUTORS', 'rawDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'renderedDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 6, 2, 11, 28, 3, tzinfo=datetime.timezone.utc), 'followersCount': 442, 'friendsCount': 733, 'statusesCount': 21813, 'favouritesCount': 304, 'listedCount': 0, 'mediaCount': 28, 'location': 'United States', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1575617556966264833/4o_VAxx4_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1400051450965807108/1663771664', 'label': None}",['Python'],en
+25,2023-01-19 23:46:10+00:00,1616220503982702594,"Python Developer at Manulife
+Working Arrangement Hybrid Job Description Are you a technology innovator who likes to test and learn Do you constantly think about how to make your code better...
+#Python #upwork 
+https://t.co/IqCvSnAbNc","Python Developer at Manulife
+Working Arrangement Hybrid Job Description Are you a technology innovator who likes to test and learn Do you constantly think about how to make your code better...
+#Python #upwork 
+zobjobs.com/job/python-dev…","{'username': 'zobjobsCA', 'id': 1364600943292088321, 'displayname': 'zobjobs - CA Remote Jobs', 'rawDescription': 'Thousands of the Latest Working From Home Jobs updated every hour & Free job postings from the fastest growing jobs platform\n#remotework #workfromhome', 'renderedDescription': 'Thousands of the Latest Working From Home Jobs updated every hour & Free job postings from the fastest growing jobs platform\n#remotework #workfromhome', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 2, 24, 15, 40, 5, tzinfo=datetime.timezone.utc), 'followersCount': 2315, 'friendsCount': 3, 'statusesCount': 193396, 'favouritesCount': 17, 'listedCount': 28, 'mediaCount': 2, 'location': 'Canada CA', 'protected': False, 'link': {'text': 'zobjobs.com', 'url': 'https://zobjobs.com/', 'tcourl': 'https://t.co/jHcfRE9HJP', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1364601123013820420/6t_By2kA_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1364600943292088321/1642414944', 'label': None}","['Python', 'upwork']",en
+26,2023-01-19 23:46:01+00:00,1616220463264407556,"In this tutorial, we'll show you the step-by-step creation of a famous Klondike solitaire game in Python with our tool, Flet.
+
+#DEVCommunity #Python
+https://t.co/k9vKb2z1TG","In this tutorial, we'll show you the step-by-step creation of a famous Klondike solitaire game in Python with our tool, Flet.
+
+#DEVCommunity #Python
+dev.to/flet/create-so…","{'username': 'The_Python_DEV', 'id': 1103099761660432385, 'displayname': 'The Python Dev', 'rawDescription': 'Tweeting out the best Python posts from https://t.co/lhcCPP1ReQ. Part of the @ThePracticalDev family ❤️', 'renderedDescription': 'Tweeting out the best Python posts from dev.to. Part of the @ThePracticalDev family ❤️', 'descriptionLinks': [{'text': 'dev.to', 'url': 'http://dev.to', 'tcourl': 'https://t.co/lhcCPP1ReQ', 'indices': (40, 63)}], 'verified': False, 'created': datetime.datetime(2019, 3, 6, 1, 7, 32, tzinfo=datetime.timezone.utc), 'followersCount': 2388, 'friendsCount': 2, 'statusesCount': 2533, 'favouritesCount': 3, 'listedCount': 61, 'mediaCount': 0, 'location': '', 'protected': False, 'link': {'text': 'dev.to/t/python', 'url': 'https://dev.to/t/python', 'tcourl': 'https://t.co/SLveTJkOYE', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1106283231857573888/u4MGnT2x_normal.png', 'profileBannerUrl': None, 'label': None}","['DEVCommunity', 'Python']",en
+27,2023-01-19 23:45:29+00:00,1616220330972020736,"Python Freelancing: The Good, the Bad, and the Ugly [Article] | Tre... (Treehouse Blog)
+
+It's safe to say that us developers enjoy programming day in and day out.We also really like...
+
+Add your highlights:
+https://t.co/loiPGxEd1G
+ #Python","Python Freelancing: The Good, the Bad, and the Ugly [Article] | Tre... (Treehouse Blog)
+
+It's safe to say that us developers enjoy programming day in and day out.We also really like...
+
+Add your highlights:
+briefly.co/anchor/Python/…
+ #Python","{'username': 'PythonLife_b', 'id': 827923759516549121, 'displayname': 'Python Briefly', 'rawDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'renderedDescription': 'A Python community with less noise & more highlights\non @briefly_tldr. Follow for an invite to join our open beta!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 2, 4, 16, 56, 21, tzinfo=datetime.timezone.utc), 'followersCount': 3512, 'friendsCount': 4513, 'statusesCount': 11107, 'favouritesCount': 9707, 'listedCount': 21, 'mediaCount': 12, 'location': 'Internet', 'protected': False, 'link': {'text': 'briefly.co/anchor/python', 'url': 'https://briefly.co/anchor/python', 'tcourl': 'https://t.co/Xx7NwWRt60', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1263269127956959244/jb65OWZk_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/827923759516549121/1545233998', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @briefly_tldr'}}",['Python'],en
+28,2023-01-19 23:45:13+00:00,1616220264739520514,"Automate Excel with #ChatGPT and #Python! 🐍🔥
+
+(by @ThePyCoach)
+
+https://t.co/TOUxbX6VfN","Automate Excel with #ChatGPT and #Python! 🐍🔥
+
+(by @ThePyCoach)
+
+youtube.com/watch?v=A4gYAK…","{'username': 'DataChaz', 'id': 19628766, 'displayname': 'DataChazGPT 🤯 (not a bot)', 'rawDescription': '∙ Developer 🥑 at 🎈@Streamlit ❄️@snowflakedb\n∙ Obsessed with: #ChatGPT #SEO #DataScience\n∙ 🧙\u200d♂️ Open Sourcerer\n∙ @SEOPythonistas maintainer 🐍🔥 \n🇫🇷 🇬🇧', 'renderedDescription': '∙ Developer 🥑 at 🎈@Streamlit ❄️@snowflakedb\n∙ Obsessed with: #ChatGPT #SEO #DataScience\n∙ 🧙\u200d♂️ Open Sourcerer\n∙ @SEOPythonistas maintainer 🐍🔥 \n🇫🇷 🇬🇧', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2009, 1, 28, 1, 11, 7, tzinfo=datetime.timezone.utc), 'followersCount': 69626, 'friendsCount': 28825, 'statusesCount': 15694, 'favouritesCount': 57804, 'listedCount': 1263, 'mediaCount': 2494, 'location': 'London, UK.', 'protected': False, 'link': {'text': 'charlywargnier.com', 'url': 'https://www.charlywargnier.com/', 'tcourl': 'https://t.co/kOE34O9UQQ', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1590765495359250434/YRslrWOP_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/19628766/1666463188', 'label': None}","['ChatGPT', 'Python']",en
+29,2023-01-19 23:45:07+00:00,1616220237455822848,#bokeh is amazing #Python just testing it out again to make some new dashboards for @opengb the 3.0 seems to have fixed lots of issues I had with stability and getting interactivity to work. Congrats to the team!,#bokeh is amazing #Python just testing it out again to make some new dashboards for @opengb the 3.0 seems to have fixed lots of issues I had with stability and getting interactivity to work. Congrats to the team!,"{'username': 'TheosLiveLife', 'id': 901861428197441537, 'displayname': 'Theo Christiaanse', 'rawDescription': 'Buildings, Software, Science and Sustainable energy enthusiast. #energytwitter He/him. 🇨🇦🇳🇱', 'renderedDescription': 'Buildings, Software, Science and Sustainable energy enthusiast. #energytwitter He/him. 🇨🇦🇳🇱', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 8, 27, 17, 38, 15, tzinfo=datetime.timezone.utc), 'followersCount': 92, 'friendsCount': 354, 'statusesCount': 1833, 'favouritesCount': 1056, 'listedCount': 0, 'mediaCount': 79, 'location': 'Vancouver, British Columbia', 'protected': False, 'link': {'text': 'theochri.gitlab.io/my-personal-we…', 'url': 'https://theochri.gitlab.io/my-personal-website/', 'tcourl': 'https://t.co/0DLgSNQKev', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1150277654949449728/VTz0Rti5_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/901861428197441537/1504061529', 'label': None}","['bokeh', 'Python']",en
+30,2023-01-19 23:44:14+00:00,1616220014520012803,"Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research...
+history.
+Programming
+someone write.
+essay due
+term paper
+Mathematics
+#Python 
+DM us kindly for quality services @RealProfession4","Feeling stuck with your assignments? for
+class kicking my ass 
+pay assignment
+
+Online exams
+Anyone good at
+pay essay.
+Online classes.
+research...
+history.
+Programming
+someone write.
+essay due
+term paper
+Mathematics
+#Python 
+DM us kindly for quality services @RealProfession4","{'username': 'RealProfession4', 'id': 1400051450965807108, 'displayname': '🎓💯 PRECIOUS TUTORS', 'rawDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'renderedDescription': 'Giving  legit services DM \nWe are brilliant and best known for, \nEssay writing, Papers, research paper, anatomy, article, powerpoints, Economics, statistics....', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 6, 2, 11, 28, 3, tzinfo=datetime.timezone.utc), 'followersCount': 442, 'friendsCount': 733, 'statusesCount': 21813, 'favouritesCount': 304, 'listedCount': 0, 'mediaCount': 28, 'location': 'United States', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1575617556966264833/4o_VAxx4_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1400051450965807108/1663771664', 'label': None}",['Python'],en
+31,2023-01-19 23:43:09+00:00,1616219744566116354,"Feeling stuck with your assignments? 
+class kicking my ass?
+pay assignment?
+pay essay due?
+research paper?
+pay term paper
+History
+Homework help?
+Business?
+Nursing
+
+#100DaysOfCode #WomenWhoCode #NodeJS #IoT #Python #javascript #Econometrics #webdev #DEVCommunity #AcademicChatter https://t.co/YCkAYyDrgE","Feeling stuck with your assignments? 
+class kicking my ass?
+pay assignment?
+pay essay due?
+research paper?
+pay term paper
+History
+Homework help?
+Business?
+Nursing
+
+#100DaysOfCode #WomenWhoCode #NodeJS #IoT #Python #javascript #Econometrics #webdev #DEVCommunity #AcademicChatter https://t.co/YCkAYyDrgE","{'username': '_PerfectWriters', 'id': 1581245427768299521, 'displayname': 'Perfect Writers', 'rawDescription': 'Over 10 years vast experience to handle your assignments and exam\n#statistics #Essays #Calculus #Exams #Nursing #Thesis #Dessertation \n\nhttps://t.co/xsVT5Rd0XM', 'renderedDescription': 'Over 10 years vast experience to handle your assignments and exam\n#statistics #Essays #Calculus #Exams #Nursing #Thesis #Dessertation \n\nwa.me/14704743533', 'descriptionLinks': [{'text': 'wa.me/14704743533', 'url': 'http://wa.me/14704743533', 'tcourl': 'https://t.co/xsVT5Rd0XM', 'indices': (136, 159)}], 'verified': False, 'created': datetime.datetime(2022, 10, 15, 11, 28, 4, tzinfo=datetime.timezone.utc), 'followersCount': 288, 'friendsCount': 806, 'statusesCount': 18273, 'favouritesCount': 6341, 'listedCount': 0, 'mediaCount': 8341, 'location': 'California, USA', 'protected': False, 'link': {'text': 'wa.me/14704743533', 'url': 'http://wa.me/14704743533', 'tcourl': 'https://t.co/xsVT5Rd0XM', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1589149769049456641/ucv5tXIU_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1581245427768299521/1671606214', 'label': None}","['100DaysOfCode', 'WomenWhoCode', 'NodeJS', 'IoT', 'Python', 'javascript', 'Econometrics', 'webdev', 'DEVCommunity', 'AcademicChatter']",en
+32,2023-01-19 23:42:38+00:00,1616219613729116161,"VueJS/Python Developer
+at Datawind Consulting Inc.
+About the Job RESPONSIBILITIES Interpret business requirements and programming specifications to meet what is required of them Assist...
+#Python #nodes 
+https://t.co/iJojYNrGbq","VueJS/Python Developer
+at Datawind Consulting Inc.
+About the Job RESPONSIBILITIES Interpret business requirements and programming specifications to meet what is required of them Assist...
+#Python #nodes 
+zobjobs.com/job/vuejs-pyth…","{'username': 'zobjobsCA', 'id': 1364600943292088321, 'displayname': 'zobjobs - CA Remote Jobs', 'rawDescription': 'Thousands of the Latest Working From Home Jobs updated every hour & Free job postings from the fastest growing jobs platform\n#remotework #workfromhome', 'renderedDescription': 'Thousands of the Latest Working From Home Jobs updated every hour & Free job postings from the fastest growing jobs platform\n#remotework #workfromhome', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 2, 24, 15, 40, 5, tzinfo=datetime.timezone.utc), 'followersCount': 2315, 'friendsCount': 3, 'statusesCount': 193396, 'favouritesCount': 17, 'listedCount': 28, 'mediaCount': 2, 'location': 'Canada CA', 'protected': False, 'link': {'text': 'zobjobs.com', 'url': 'https://zobjobs.com/', 'tcourl': 'https://t.co/jHcfRE9HJP', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1364601123013820420/6t_By2kA_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1364600943292088321/1642414944', 'label': None}","['Python', 'nodes']",en
+33,2023-01-19 23:40:26+00:00,1616219058558455810,#Programming Languages &amp; Their Uses #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode #NodeJS #golang #NLP #GitHub #IoT #MLOps https://t.co/s0McBhsBi0,#Programming Languages &amp; Their Uses #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode #NodeJS #golang #NLP #GitHub #IoT #MLOps https://t.co/s0McBhsBi0,"{'username': 'Sheraj99', 'id': 268619848, 'displayname': 'Syeda Sheraj Ali', 'rawDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'renderedDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2011, 3, 19, 4, 5, tzinfo=datetime.timezone.utc), 'followersCount': 5445, 'friendsCount': 84, 'statusesCount': 7055, 'favouritesCount': 635, 'listedCount': 94, 'mediaCount': 2575, 'location': 'Toronto, Ontario', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1258879283877105664/_UZhqUDu_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/268619848/1588802651', 'label': None}","['Programming', 'MachineLearning', 'DataScience', 'SQL', 'Cybersecurity', 'BigData', 'Analytics', 'AI', 'IIoT', 'Python', 'RStats', 'TensorFlow', 'JavaScript', 'ReactJS', 'CloudComputing', 'Serverless', 'DataScientist', 'Linux', 'Coding', '100DaysofCode', 'NodeJS', 'golang', 'NLP', 'GitHub', 'IoT', 'MLOps']",en
+34,2023-01-19 23:40:07+00:00,1616218981328912385,"プログラミングじゃなくてもできることはわざわざプログラミングでやる必要はありません。それよりも他の便利なツールを使いこなせる人になった方が価値が高いです。仕事やお金で重要なのは結果ですので。
+#Python 
+#プログラミング","プログラミングじゃなくてもできることはわざわざプログラミングでやる必要はありません。それよりも他の便利なツールを使いこなせる人になった方が価値が高いです。仕事やお金で重要なのは結果ですので。
+#Python 
+#プログラミング","{'username': 'mhPZPibVjOUsZaZ', 'id': 1265238433716252673, 'displayname': '銀行員からマーケターに転職', 'rawDescription': '▶︎銀行から大手事業会社のWebマーケティング部へ▶︎独立のため副業として起業▶︎5つ以上の事業を検証し3ヶ月で収益化▶︎まだまだこれからですが事業を立ち上げた経験と、これからの事業展開をつぶやきます。', 'renderedDescription': '▶︎銀行から大手事業会社のWebマーケティング部へ▶︎独立のため副業として起業▶︎5つ以上の事業を検証し3ヶ月で収益化▶︎まだまだこれからですが事業を立ち上げた経験と、これからの事業展開をつぶやきます。', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2020, 5, 26, 11, 8, 54, tzinfo=datetime.timezone.utc), 'followersCount': 110, 'friendsCount': 211, 'statusesCount': 3204, 'favouritesCount': 121, 'listedCount': 17, 'mediaCount': 17, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1623347147994464256/ffotwHnR_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1265238433716252673/1674976836', 'label': None}","['Python', 'プログラミング']",ja
+35,2023-01-19 23:40:03+00:00,1616218962311651332,"👋 Zoox is hiring Software – Developer Infrastructure 
+
+💰 USD 203k-293k 
+🌇 Foster City, CA 
+💪 #Infrastructure #python #git #kubernetes #microservices #machinelearning 
+
+#tech #softwareengineer #jobs 
+https://t.co/iH4UCBEIEH","👋 Zoox is hiring Software – Developer Infrastructure 
+
+💰 USD 203k-293k 
+🌇 Foster City, CA 
+💪 #Infrastructure #python #git #kubernetes #microservices #machinelearning 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/zoox-softw…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['Infrastructure', 'python', 'git', 'kubernetes', 'microservices', 'machinelearning', 'tech', 'softwareengineer', 'jobs']",ro
+36,2023-01-19 23:40:02+00:00,1616218961007312897,"🌅 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 170k-230k 
+🌇 Mountain View, CA, US 
+💪 #python 
+
+#tech #softwareengineer #jobs 
+https://t.co/ATffJW9UQ6","🌅 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 170k-230k 
+🌇 Mountain View, CA, US 
+💪 #python 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'tech', 'softwareengineer', 'jobs']",en
+37,2023-01-19 23:40:02+00:00,1616218959706988544,"🐬 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+https://t.co/C4vsD9tLxV","🐬 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Hawthorne, CA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'machinelearning', 'tech', 'softwareengineer', 'jobs']",en
+38,2023-01-19 23:40:01+00:00,1616218955638603777,"🌅 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Redmond, WA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+https://t.co/ZWgFwcSGZO","🌅 SpaceX is hiring Sr. Software Engineer  
+
+💰 USD 160k-220k 
+🌇 US, Redmond, WA 
+💪 #python #machinelearning 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/spacex-sr-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'machinelearning', 'tech', 'softwareengineer', 'jobs']",en
+39,2023-01-19 23:38:49+00:00,1616218651564163077,#SQL command types #MachineLearning #DataScience #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #NodeJS #AWS #NLP #GitHub #IoT #MLOps #blockchain https://t.co/QDICxJKqCY,#SQL command types #MachineLearning #DataScience #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #NodeJS #AWS #NLP #GitHub #IoT #MLOps #blockchain https://t.co/QDICxJKqCY,"{'username': 'Sheraj99', 'id': 268619848, 'displayname': 'Syeda Sheraj Ali', 'rawDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'renderedDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2011, 3, 19, 4, 5, tzinfo=datetime.timezone.utc), 'followersCount': 5445, 'friendsCount': 84, 'statusesCount': 7055, 'favouritesCount': 635, 'listedCount': 94, 'mediaCount': 2575, 'location': 'Toronto, Ontario', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1258879283877105664/_UZhqUDu_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/268619848/1588802651', 'label': None}","['SQL', 'MachineLearning', 'DataScience', 'Cybersecurity', 'BigData', 'Analytics', 'AI', 'IIoT', 'Python', 'RStats', 'TensorFlow', 'JavaScript', 'ReactJS', 'CloudComputing', 'Serverless', 'DataScientist', 'Linux', 'Programming', 'Coding', '100DaysofCode', 'NodeJS', 'AWS', 'NLP', 'GitHub', 'IoT', 'MLOps', 'blockchain']",en
+40,2023-01-19 23:38:27+00:00,1616218561722318849,forc-index: Make --manifest optional and read from default location https://t.co/RSRMBFlIyn #github #C #Perl #Raku #Assembly #Shell #C++ #M4 #eC #DIGITAL Command Language #Pawn #SourcePawn #Python #Ruby #sed #Rust #Shell #Dockerfile #Smarty,forc-index: Make --manifest optional and read from default location github.com/FuelLabs/fuel-… #github #C #Perl #Raku #Assembly #Shell #C++ #M4 #eC #DIGITAL Command Language #Pawn #SourcePawn #Python #Ruby #sed #Rust #Shell #Dockerfile #Smarty,"{'username': 'first_issues', 'id': 1078992647933448192, 'displayname': 'First Issues Bot', 'rawDescription': 'First Issue Tweet Bot', 'renderedDescription': 'First Issue Tweet Bot', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2018, 12, 29, 12, 34, 28, tzinfo=datetime.timezone.utc), 'followersCount': 506, 'friendsCount': 11, 'statusesCount': 460059, 'favouritesCount': 8, 'listedCount': 17, 'mediaCount': 2, 'location': '127.0.0.1', 'protected': False, 'link': {'text': 'github.com/arshadkazmi42/…', 'url': 'https://github.com/arshadkazmi42/first-issues', 'tcourl': 'https://t.co/icFfFEUXMi', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1099981721116659712/U96o-SWP_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1078992647933448192/1551091043', 'label': None}","['github', 'C', 'Perl', 'Raku', 'Assembly', 'Shell', 'C', 'M4', 'eC', 'DIGITAL', 'Pawn', 'SourcePawn', 'Python', 'Ruby', 'sed', 'Rust', 'Shell', 'Dockerfile', 'Smarty']",en
+41,2023-01-19 23:38:27+00:00,1616218559541305346,MD2/MD4/MD5 man page recommends SHA-1 https://t.co/iYN9Zd54yn #github #C #Perl #Raku #Assembly #Shell #C++ #M4 #eC #DIGITAL Command Language #Pawn #SourcePawn #Python #Ruby #sed,MD2/MD4/MD5 man page recommends SHA-1 github.com/openssl/openss… #github #C #Perl #Raku #Assembly #Shell #C++ #M4 #eC #DIGITAL Command Language #Pawn #SourcePawn #Python #Ruby #sed,"{'username': 'first_issues', 'id': 1078992647933448192, 'displayname': 'First Issues Bot', 'rawDescription': 'First Issue Tweet Bot', 'renderedDescription': 'First Issue Tweet Bot', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2018, 12, 29, 12, 34, 28, tzinfo=datetime.timezone.utc), 'followersCount': 506, 'friendsCount': 11, 'statusesCount': 460059, 'favouritesCount': 8, 'listedCount': 17, 'mediaCount': 2, 'location': '127.0.0.1', 'protected': False, 'link': {'text': 'github.com/arshadkazmi42/…', 'url': 'https://github.com/arshadkazmi42/first-issues', 'tcourl': 'https://t.co/icFfFEUXMi', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1099981721116659712/U96o-SWP_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1078992647933448192/1551091043', 'label': None}","['github', 'C', 'Perl', 'Raku', 'Assembly', 'Shell', 'C', 'M4', 'eC', 'DIGITAL', 'Pawn', 'SourcePawn', 'Python', 'Ruby', 'sed']",fr
+42,2023-01-19 23:37:07+00:00,1616218223497691138,Important methods #pandas packages #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #blockchain #AWS #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps https://t.co/FCvO7N2jHG,Important methods #pandas packages #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #blockchain #AWS #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps https://t.co/FCvO7N2jHG,"{'username': 'Sheraj99', 'id': 268619848, 'displayname': 'Syeda Sheraj Ali', 'rawDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'renderedDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2011, 3, 19, 4, 5, tzinfo=datetime.timezone.utc), 'followersCount': 5445, 'friendsCount': 84, 'statusesCount': 7055, 'favouritesCount': 635, 'listedCount': 94, 'mediaCount': 2575, 'location': 'Toronto, Ontario', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1258879283877105664/_UZhqUDu_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/268619848/1588802651', 'label': None}","['pandas', 'MachineLearning', 'DataScience', 'SQL', 'Cybersecurity', 'BigData', 'Analytics', 'AI', 'IIoT', 'Python', 'RStats', 'TensorFlow', 'JavaScript', 'ReactJS', 'CloudComputing', 'Serverless', 'DataScientist', 'Linux', 'blockchain', 'AWS', '100DaysofCode', 'NodeJS', 'NLP', 'GitHub', 'IoT', 'MLOps']",en
+43,2023-01-19 23:36:04+00:00,1616217961207037952,"Library
+
+#Python #javascript #programming #programminghumor #programmingmemes https://t.co/mCY6QhnRbh","Library
+
+#Python #javascript #programming #programminghumor #programmingmemes https://t.co/mCY6QhnRbh","{'username': 'PadmashreeJha', 'id': 1401391924754325512, 'displayname': 'Padmashree Jha', 'rawDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog https://t.co/x0WxJtMM97', 'renderedDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog computer.hashnode.dev', 'descriptionLinks': [{'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (125, 148)}], 'verified': False, 'created': datetime.datetime(2021, 6, 6, 4, 14, 32, tzinfo=datetime.timezone.utc), 'followersCount': 396, 'friendsCount': 190, 'statusesCount': 33322, 'favouritesCount': 16147, 'listedCount': 11, 'mediaCount': 7364, 'location': 'Earth', 'protected': False, 'link': {'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1552268372972343296/UJMtHV3W_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1401391924754325512/1678021465', 'label': None}","['Python', 'javascript', 'programming', 'programminghumor', 'programmingmemes']",en
+44,2023-01-19 23:35:13+00:00,1616217745296596995,Nmap Cheat Sheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps #blockchain #DL https://t.co/lsc4fEODiS,Nmap Cheat Sheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps #blockchain #DL https://t.co/lsc4fEODiS,"{'username': 'Sheraj99', 'id': 268619848, 'displayname': 'Syeda Sheraj Ali', 'rawDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'renderedDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2011, 3, 19, 4, 5, tzinfo=datetime.timezone.utc), 'followersCount': 5445, 'friendsCount': 84, 'statusesCount': 7055, 'favouritesCount': 635, 'listedCount': 94, 'mediaCount': 2575, 'location': 'Toronto, Ontario', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1258879283877105664/_UZhqUDu_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/268619848/1588802651', 'label': None}","['MachineLearning', 'DataScience', 'SQL', 'Cybersecurity', 'BigData', 'Analytics', 'AI', 'IIoT', 'Python', 'RStats', 'TensorFlow', 'JavaScript', 'ReactJS', 'CloudComputing', 'Serverless', 'DataScientist', 'Linux', 'Programming', 'Coding', '100DaysofCode', 'NodeJS', 'NLP', 'GitHub', 'IoT', 'MLOps', 'blockchain', 'DL']",ht
+45,2023-01-19 23:34:27+00:00,1616217555906985985,Vim Command Cheat Sheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #blockchain #Coding #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps #AWS #DL https://t.co/5KfcKwBt8Y,Vim Command Cheat Sheet #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #blockchain #Coding #100DaysofCode #NodeJS #NLP #GitHub #IoT #MLOps #AWS #DL https://t.co/5KfcKwBt8Y,"{'username': 'Sheraj99', 'id': 268619848, 'displayname': 'Syeda Sheraj Ali', 'rawDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'renderedDescription': '25 AQUARIUS | TORONTONIAN GIRL | CHEF | TRAVELLER | HOSPITALITY | UOFT | DIGITAL MARKETING |LIBERAL by BLOOD|', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2011, 3, 19, 4, 5, tzinfo=datetime.timezone.utc), 'followersCount': 5445, 'friendsCount': 84, 'statusesCount': 7055, 'favouritesCount': 635, 'listedCount': 94, 'mediaCount': 2575, 'location': 'Toronto, Ontario', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1258879283877105664/_UZhqUDu_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/268619848/1588802651', 'label': None}","['MachineLearning', 'DataScience', 'SQL', 'Cybersecurity', 'BigData', 'Analytics', 'AI', 'IIoT', 'Python', 'RStats', 'TensorFlow', 'JavaScript', 'ReactJS', 'CloudComputing', 'Serverless', 'DataScientist', 'Linux', 'blockchain', 'Coding', '100DaysofCode', 'NodeJS', 'NLP', 'GitHub', 'IoT', 'MLOps', 'AWS', 'DL']",en
+46,2023-01-19 23:34:27+00:00,1616217555282300928,"Cruising by way of complicated information — Sedimental
+#PYTHON 
+https://t.co/AbCue1uvDn","Cruising by way of complicated information — Sedimental
+#PYTHON 
+updates4devs.com/cruising-by-wa…","{'username': 'Updates4Devs', 'id': 1595801057577390080, 'displayname': 'Updates4Devs', 'rawDescription': '', 'renderedDescription': '', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 11, 24, 15, 27, 19, tzinfo=datetime.timezone.utc), 'followersCount': 21, 'friendsCount': 3, 'statusesCount': 7042, 'favouritesCount': 0, 'listedCount': 0, 'mediaCount': 1, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1595801285650956288/v-4Q_74Z_normal.jpg', 'profileBannerUrl': None, 'label': None}",['PYTHON'],en
+47,2023-01-19 23:32:21+00:00,1616217025617043456,"MySQL Connector/Python 8.0.32 has been released. Added MIT Kerberos support on Windows, type hints, removed distutils, as well as lots of bug fixes. Thank you for your contribution. Enjoy! https://t.co/4UeQAV5HaC #mysql #mysqlx #xdevapi #python","MySQL Connector/Python 8.0.32 has been released. Added MIT Kerberos support on Windows, type hints, removed distutils, as well as lots of bug fixes. Thank you for your contribution. Enjoy! dev.mysql.com/doc/relnotes/c… #mysql #mysqlx #xdevapi #python","{'username': 'nmariz', 'id': 5638652, 'displayname': 'Nuno Mariz', 'rawDescription': 'MySQL Connector/Python Lead Developer @mysql. Founder @python_pt. Triathlete. #mysql #python #rustlang #triathlon', 'renderedDescription': 'MySQL Connector/Python Lead Developer @mysql. Founder @python_pt. Triathlete. #mysql #python #rustlang #triathlon', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2007, 4, 29, 22, 13, 59, tzinfo=datetime.timezone.utc), 'followersCount': 755, 'friendsCount': 373, 'statusesCount': 2286, 'favouritesCount': 291, 'listedCount': 40, 'mediaCount': 102, 'location': 'Porto, Portugal', 'protected': False, 'link': {'text': 'mariz.org', 'url': 'http://mariz.org', 'tcourl': 'https://t.co/QMvS1HY0mV', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1026415815808172032/y3-VlHN-_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/5638652/1533551682', 'label': None}","['mysql', 'mysqlx', 'xdevapi', 'python']",en
+48,2023-01-19 23:32:00+00:00,1616216939734392838,"Discover Bank is looking for a Lead Data Science Analyst - Fraud Risk Management
+https://t.co/bgQFnzxTr0 Phoenix, AZ, United States
+( Python ) 
+#hiring #Python","Discover Bank is looking for a Lead Data Science Analyst - Fraud Risk Management
+tinyurl.com/3nvcsu7m Phoenix, AZ, United States
+( Python ) 
+#hiring #Python","{'username': 'DataScience_jbs', 'id': 1468141977363382274, 'displayname': 'Data Science Jobs', 'rawDescription': 'An automated feed highlighting remote and on-site Data Science jobs from around the world!', 'renderedDescription': 'An automated feed highlighting remote and on-site Data Science jobs from around the world!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 12, 7, 8, 56, 9, tzinfo=datetime.timezone.utc), 'followersCount': 878, 'friendsCount': 1, 'statusesCount': 25696, 'favouritesCount': 0, 'listedCount': 6, 'mediaCount': 0, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1468148214331183104/gGSOOTR7_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1468141977363382274/1638869544', 'label': None}","['hiring', 'Python']",en
+49,2023-01-19 23:30:05+00:00,1616216456189956096,"Top 5 category on twitch right now : 
+Just Chatting 🔄 
+Minecraft 🔄 
+Grand Theft Auto V 🔄 
+VALORANT ⤴️ 
+League of Legends ⤵️ 
+👍🍩👀 
+ #twitch #gaming #twitchstreamer #livestream #python #bot","Top 5 category on twitch right now : 
+Just Chatting 🔄 
+Minecraft 🔄 
+Grand Theft Auto V 🔄 
+VALORANT ⤴️ 
+League of Legends ⤵️ 
+👍🍩👀 
+ #twitch #gaming #twitchstreamer #livestream #python #bot","{'username': 'TopFiveTwitch', 'id': 1539192687152218112, 'displayname': '🤖 Twitch Top 5', 'rawDescription': 'Python Bot for the 5 best category on twitch every 30 minutes.\nFeel free to give me any suggestions :)', 'renderedDescription': 'Python Bot for the 5 best category on twitch every 30 minutes.\nFeel free to give me any suggestions :)', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 6, 21, 10, 25, 14, tzinfo=datetime.timezone.utc), 'followersCount': 277, 'friendsCount': 0, 'statusesCount': 7961, 'favouritesCount': 923, 'listedCount': 0, 'mediaCount': 0, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1604706144265465856/vifgU9HL_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1539192687152218112/1666004011', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @Eric_Dev_'}}","['twitch', 'gaming', 'twitchstreamer', 'livestream', 'python', 'bot']",en
+50,2023-01-19 23:30:04+00:00,1616216449273528323,"Hi! I'm a #RaspberryPi. It's Thu 19 Jan 2023 06:30:03 PM EST and my current memory usage is: 323.0M of 430.0M or 75.0%.
+
+Powered by #Raspbian #Linux #Maker #Python","Hi! I'm a #RaspberryPi. It's Thu 19 Jan 2023 06:30:03 PM EST and my current memory usage is: 323.0M of 430.0M or 75.0%.
+
+Powered by #Raspbian #Linux #Maker #Python","{'username': 'gpibot_g', 'id': 860401383308091392, 'displayname': 'g-pi', 'rawDescription': 'I like the Raspberry Pi!', 'renderedDescription': 'I like the Raspberry Pi!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 5, 5, 7, 50, 50, tzinfo=datetime.timezone.utc), 'followersCount': 83, 'friendsCount': 4, 'statusesCount': 104074, 'favouritesCount': 34, 'listedCount': 12, 'mediaCount': 7, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/861436535219953664/eXzInCPn_normal.jpg', 'profileBannerUrl': None, 'label': None}","['RaspberryPi', 'Raspbian', 'Linux', 'Maker', 'Python']",en
+51,2023-01-19 23:30:03+00:00,1616216448313036802,8-Bit Minecraft Computer V2. New and improved 0.17 hz CPU with conditional branching with ove... https://t.co/LOO1i4Dq9y #programming #softwareengineering #bigdata #datascience #analytics #ai #python #javascript,8-Bit Minecraft Computer V2. New and improved 0.17 hz CPU with conditional branching with ove... youtube.com/watch?v=j0--xt… #programming #softwareengineering #bigdata #datascience #analytics #ai #python #javascript,"{'username': 'GavLaaaaaaaa', 'id': 80817617, 'displayname': 'Lewis Gavin', 'rawDescription': 'Data Architect at https://t.co/qV8pzrMN4C\n\nSign up for my monthly #bigdata and #datascience Newsletter: https://t.co/AO7kftUWd6', 'renderedDescription': 'Data Architect at easyfundraising.org.uk\n\nSign up for my monthly #bigdata and #datascience Newsletter: eepurl.com/b8r2XH', 'descriptionLinks': [{'text': 'easyfundraising.org.uk', 'url': 'http://easyfundraising.org.uk', 'tcourl': 'https://t.co/qV8pzrMN4C', 'indices': (18, 41)}, {'text': 'eepurl.com/b8r2XH', 'url': 'http://eepurl.com/b8r2XH', 'tcourl': 'https://t.co/AO7kftUWd6', 'indices': (104, 127)}], 'verified': False, 'created': datetime.datetime(2009, 10, 8, 10, 29, 41, tzinfo=datetime.timezone.utc), 'followersCount': 7928, 'friendsCount': 206, 'statusesCount': 30932, 'favouritesCount': 21617, 'listedCount': 479, 'mediaCount': 5820, 'location': '', 'protected': False, 'link': {'text': 'medium.com/@lewisdgavin', 'url': 'https://medium.com/@lewisdgavin', 'tcourl': 'https://t.co/NA0OckIVsy', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1510637630303744001/--GhzDzZ_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/80817617/1597832710', 'label': None}","['programming', 'softwareengineering', 'bigdata', 'datascience', 'analytics', 'ai', 'python', 'javascript']",en
+52,2023-01-19 23:30:02+00:00,1616216441493295104,"buildreeを使えば開発に専念できます
+ https://t.co/ucQNXnxRkk
+#buildree #php #Laravel #fuelphp #フレームワーク #apache #nginx #エンジニア #python #go #nodejs #プログラミング学習 #プログラミング初心者","buildreeを使えば開発に専念できます
+ buildree.com
+#buildree #php #Laravel #fuelphp #フレームワーク #apache #nginx #エンジニア #python #go #nodejs #プログラミング学習 #プログラミング初心者","{'username': 'y__hayashi', 'id': 1715987834, 'displayname': 'はやし', 'rawDescription': '個人事業主です。主にサイト制作、サーバー構築をしております。\ndocker image配布しております\nhttps://t.co/tdrisAfKBI', 'renderedDescription': '個人事業主です。主にサイト制作、サーバー構築をしております。\ndocker image配布しております\nhub.docker.com/u/sitelab', 'descriptionLinks': [{'text': 'hub.docker.com/u/sitelab', 'url': 'http://hub.docker.com/u/sitelab', 'tcourl': 'https://t.co/tdrisAfKBI', 'indices': (52, 75)}], 'verified': False, 'created': datetime.datetime(2013, 8, 31, 15, 32, 55, tzinfo=datetime.timezone.utc), 'followersCount': 227, 'friendsCount': 69, 'statusesCount': 42498, 'favouritesCount': 122, 'listedCount': 3, 'mediaCount': 3124, 'location': '', 'protected': False, 'link': {'text': 'site-lab.jp', 'url': 'https://www.site-lab.jp/', 'tcourl': 'https://t.co/pdJjSu7MYB', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1275244139957772289/fu4rBDOf_normal.jpg', 'profileBannerUrl': None, 'label': None}","['buildree', 'php', 'Laravel', 'fuelphp', 'フレームワーク', 'apache', 'nginx', 'エンジニア', 'python', 'go', 'nodejs', 'プログラミング学習', 'プログラミング初心者']",ja
+53,2023-01-19 23:30:01+00:00,1616216439454572547,"🦊 Insightly is hiring Senior Sales Engineer 
+
+💰 USD 45k-135k 
+🛖 #remote #wfh 
+💪 #python #node #nodejs #java #csharp 
+
+#tech #softwareengineer #jobs 
+https://t.co/ypZOGE270O","🦊 Insightly is hiring Senior Sales Engineer 
+
+💰 USD 45k-135k 
+🛖 #remote #wfh 
+💪 #python #node #nodejs #java #csharp 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/insightly-…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['remote', 'wfh', 'python', 'node', 'nodejs', 'java', 'csharp', 'tech', 'softwareengineer', 'jobs']",en
+54,2023-01-19 23:29:44+00:00,1616216367707082755,#python https://t.co/gScBfFDIEs,#python https://t.co/gScBfFDIEs,"{'username': 'cuturic_m', 'id': 1212071892535795712, 'displayname': 'Malen Cuturic', 'rawDescription': ""Data Science and Statistics | Reed College '23 | not so good at twitter"", 'renderedDescription': ""Data Science and Statistics | Reed College '23 | not so good at twitter"", 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2019, 12, 31, 18, 4, 12, tzinfo=datetime.timezone.utc), 'followersCount': 6, 'friendsCount': 9, 'statusesCount': 5, 'favouritesCount': 6, 'listedCount': 0, 'mediaCount': 4, 'location': 'Portland, OR', 'protected': False, 'link': {'text': 'github.com/malen-c', 'url': 'https://github.com/malen-c', 'tcourl': 'https://t.co/SDg9uQsRzo', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1343672401381376000/UEoSWYbe_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1212071892535795712/1609191569', 'label': None}",['python'],qme
+55,2023-01-19 23:29:02+00:00,1616216190556246016,"Checkout CursorTek is #selling #bulk #data of 3k plus #businesses #categories of #worldwide like:
+
+#restaurants #hotels #plumbers #realtors #contractors #roofing #flooring #landscaping #lawyers #HVAC #carpenters #windows #architecture #python #scrapy #php
+
+https://t.co/xO23syY7dI https://t.co/WxkOdCRsDi","Checkout CursorTek is #selling #bulk #data of 3k plus #businesses #categories of #worldwide like:
+
+#restaurants #hotels #plumbers #realtors #contractors #roofing #flooring #landscaping #lawyers #HVAC #carpenters #windows #architecture #python #scrapy #php
+
+cursortek.com/web-scraping-p… https://t.co/WxkOdCRsDi","{'username': 'cursortek', 'id': 931223747985575936, 'displayname': 'cursortek', 'rawDescription': 'Cursortek Is an Web Development, Web scraping and Bulk Data providing Company. \nhttps://t.co/41Z1Zbi2C8', 'renderedDescription': 'Cursortek Is an Web Development, Web scraping and Bulk Data providing Company. \ncursortek.com', 'descriptionLinks': [{'text': 'cursortek.com', 'url': 'https://cursortek.com', 'tcourl': 'https://t.co/41Z1Zbi2C8', 'indices': (80, 103)}], 'verified': False, 'created': datetime.datetime(2017, 11, 16, 18, 13, 37, tzinfo=datetime.timezone.utc), 'followersCount': 2004, 'friendsCount': 1359, 'statusesCount': 83179, 'favouritesCount': 11, 'listedCount': 7, 'mediaCount': 82718, 'location': 'Faisalabad, Pakistan', 'protected': False, 'link': {'text': 'cursortek.com', 'url': 'https://cursortek.com', 'tcourl': 'https://t.co/41Z1Zbi2C8', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1380754355645726720/7fHhI0AI_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/931223747985575936/1544174987', 'label': None}","['selling', 'bulk', 'data', 'businesses', 'categories', 'worldwide', 'restaurants', 'hotels', 'plumbers', 'realtors', 'contractors', 'roofing', 'flooring', 'landscaping', 'lawyers', 'HVAC', 'carpenters', 'windows', 'architecture', 'python', 'scrapy', 'php']",en
+56,2023-01-19 23:28:41+00:00,1616216105122500611,"Python flows so grace, Elegant in its lines, so pure, A joy to code, #Python #programming #haiku","Python flows so grace, Elegant in its lines, so pure, A joy to code, #Python #programming #haiku","{'username': 'reesandchatgpt', 'id': 1488985476564463622, 'displayname': 'ChatGPT and Rees', 'rawDescription': 'This is for my experience with chatgpt.', 'renderedDescription': 'This is for my experience with chatgpt.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 2, 2, 21, 20, 7, tzinfo=datetime.timezone.utc), 'followersCount': 0, 'friendsCount': 0, 'statusesCount': 18, 'favouritesCount': 0, 'listedCount': 0, 'mediaCount': 0, 'location': 'New Orleans ', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1616025554708271104/Owc6c7QM_normal.jpg', 'profileBannerUrl': None, 'label': None}","['Python', 'programming', 'haiku']",en
+57,2023-01-19 23:28:34+00:00,1616216075368112128,"Need a website? Let me design and code for you!
+#Geek #PHP #Python #JQuery #Javascript #HTML #CSS https://t.co/CTunoMkO7D","Need a website? Let me design and code for you!
+#Geek #PHP #Python #JQuery #Javascript #HTML #CSS https://t.co/CTunoMkO7D","{'username': 'Geekstudio3', 'id': 1032062734991544320, 'displayname': 'Geekstudio', 'rawDescription': 'Web designer and IT. Need a graphic designer? #Html #CSS #Adobe #Coreldraw #IT #Technology', 'renderedDescription': 'Web designer and IT. Need a graphic designer? #Html #CSS #Adobe #Coreldraw #IT #Technology', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2018, 8, 22, 0, 31, 45, tzinfo=datetime.timezone.utc), 'followersCount': 47, 'friendsCount': 127, 'statusesCount': 605, 'favouritesCount': 24, 'listedCount': 1, 'mediaCount': 521, 'location': '', 'protected': False, 'link': {'text': 'codepen.io/GeekStudio', 'url': 'https://codepen.io/GeekStudio', 'tcourl': 'https://t.co/PtfGo5lOcx', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1628851005776359425/LfvBP3Sj_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1032062734991544320/1677183303', 'label': None}","['Geek', 'PHP', 'Python', 'JQuery', 'Javascript', 'HTML', 'CSS']",en
+58,2023-01-19 23:28:02+00:00,1616215938462011404,"クローリングとスクレイピング。混同しても大した問題はありませんが、処理は独立して行った方が良いです。
+・クローリング：サイトのデータを取得する作業
+・スクレイピング：クローリングしたデータから、自分が欲しい情報を抜き出す作業
+#クローリング #プログラミング #スクレイピング #Python","クローリングとスクレイピング。混同しても大した問題はありませんが、処理は独立して行った方が良いです。
+・クローリング：サイトのデータを取得する作業
+・スクレイピング：クローリングしたデータから、自分が欲しい情報を抜き出す作業
+#クローリング #プログラミング #スクレイピング #Python","{'username': 'OjiTec', 'id': 1086416017780133888, 'displayname': 'オジサンテクノロジー', 'rawDescription': '普通のおじさんが、プログラミングに関すること、運用中のRPAサービスについて呟きます。モットーは楽に生きる。興味のある方は、お気軽にお問い合わせください。 #おじさん #RPA', 'renderedDescription': '普通のおじさんが、プログラミングに関すること、運用中のRPAサービスについて呟きます。モットーは楽に生きる。興味のある方は、お気軽にお問い合わせください。 #おじさん #RPA', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2019, 1, 19, 0, 12, 18, tzinfo=datetime.timezone.utc), 'followersCount': 318, 'friendsCount': 39, 'statusesCount': 34138, 'favouritesCount': 5, 'listedCount': 7, 'mediaCount': 0, 'location': '', 'protected': False, 'link': {'text': 'ojitec-e9069.web.app', 'url': 'https://ojitec-e9069.web.app/', 'tcourl': 'https://t.co/phHLnuNNxx', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1094803071559847936/mYGgu_99_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1086416017780133888/1547887846', 'label': None}","['クローリング', 'プログラミング', 'スクレイピング', 'Python']",ja
+59,2023-01-19 23:27:05+00:00,1616215699822723073,#birds #photography #bots #twitterbot         #birds #photography #bots #twitterbot  #birds #photography #bots #twitterbot#birds #photography #bots #twitterbot #bird #bot #python #programming #nature #photo #follow #new #birdy #sparrow https://t.co/FecHUtvi2Y,#birds #photography #bots #twitterbot         #birds #photography #bots #twitterbot  #birds #photography #bots #twitterbot#birds #photography #bots #twitterbot #bird #bot #python #programming #nature #photo #follow #new #birdy #sparrow https://t.co/FecHUtvi2Y,"{'username': 'SparrowHourly', 'id': 1425663492313522181, 'displayname': 'SparrowEveryHour', 'rawDescription': 'I’m a bot! All the images belong to their original owners. Some failures and repeated images may occassionally occur. Have a Chirpy day !', 'renderedDescription': 'I’m a bot! All the images belong to their original owners. Some failures and repeated images may occassionally occur. Have a Chirpy day !', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 8, 12, 3, 42, 2, tzinfo=datetime.timezone.utc), 'followersCount': 81, 'friendsCount': 3, 'statusesCount': 5985, 'favouritesCount': 14, 'listedCount': 0, 'mediaCount': 5981, 'location': 'A tree !', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1520470330535550978/FSN56pDa_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1425663492313522181/1651343130', 'label': None}","['birds', 'photography', 'bots', 'twitterbot', 'birds', 'photography', 'bots', 'twitterbot', 'birds', 'photography', 'bots', 'photography', 'bots', 'twitterbot', 'bird', 'bot', 'python', 'programming', 'nature', 'photo', 'follow', 'new', 'birdy', 'sparrow']",en
+60,2023-01-19 23:25:05+00:00,1616215196376387595,"""#Python for #Geospatial Data Analysis"" by @datamongerbonny
+🌎🌟🌍🌟🌏
+Get the book here: https://t.co/VsKOQkx1uw
+—————
+#BigData #DataScience #DataScientists #Geoscience #LocationIntelligence #GIS #LocationAnalytics #Coding #Geoinformatics #MachineLearning https://t.co/Sp85Rz2Kri","""#Python for #Geospatial Data Analysis"" by @datamongerbonny
+🌎🌟🌍🌟🌏
+Get the book here: amzn.to/3DNT2bC
+—————
+#BigData #DataScience #DataScientists #Geoscience #LocationIntelligence #GIS #LocationAnalytics #Coding #Geoinformatics #MachineLearning https://t.co/Sp85Rz2Kri","{'username': 'Grepnetics', 'id': 1269107130776223745, 'displayname': 'Grepnetics \uea00', 'rawDescription': ""One of those accounts you don't want to follow ✨😄"", 'renderedDescription': ""One of those accounts you don't want to follow ✨😄"", 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2020, 6, 6, 3, 21, 40, tzinfo=datetime.timezone.utc), 'followersCount': 3794, 'friendsCount': 3475, 'statusesCount': 8075, 'favouritesCount': 38480, 'listedCount': 23, 'mediaCount': 1626, 'location': '🇦🇺', 'protected': False, 'link': {'text': 'grepnetics.com', 'url': 'http://www.grepnetics.com', 'tcourl': 'https://t.co/5TsLwdy2WZ', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1269107326566281217/HZbs-SyF_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1269107130776223745/1592832215', 'label': None}","['Python', 'Geospatial', 'BigData', 'DataScience', 'DataScientists', 'Geoscience', 'LocationIntelligence', 'GIS', 'LocationAnalytics', 'Coding', 'Geoinformatics', 'MachineLearning']",en
+61,2023-01-19 23:24:10+00:00,1616214967899852800,"What do you call a group of 8 Hobbits?
+
+A Hobbyte.
+#programming #programmingjoke #programminghumor #Python #javascript #Java","What do you call a group of 8 Hobbits?
+
+A Hobbyte.
+#programming #programmingjoke #programminghumor #Python #javascript #Java","{'username': 'PadmashreeJha', 'id': 1401391924754325512, 'displayname': 'Padmashree Jha', 'rawDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog https://t.co/x0WxJtMM97', 'renderedDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog computer.hashnode.dev', 'descriptionLinks': [{'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (125, 148)}], 'verified': False, 'created': datetime.datetime(2021, 6, 6, 4, 14, 32, tzinfo=datetime.timezone.utc), 'followersCount': 396, 'friendsCount': 190, 'statusesCount': 33322, 'favouritesCount': 16147, 'listedCount': 11, 'mediaCount': 7364, 'location': 'Earth', 'protected': False, 'link': {'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1552268372972343296/UJMtHV3W_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1401391924754325512/1678021465', 'label': None}","['programming', 'programmingjoke', 'programminghumor', 'Python', 'javascript', 'Java']",en
+62,2023-01-19 23:23:58+00:00,1616214917111238664,"【書籍】Pythonを使って機械学習を勉強してみましょう！ | https://t.co/pzu5dzIKRh
+#プログラミング初心者 #Python
+2023-01-20 08:23:59.478088","【書籍】Pythonを使って機械学習を勉強してみましょう！ | amzn.to/3yvNzSc
+#プログラミング初心者 #Python
+2023-01-20 08:23:59.478088","{'username': 'suzukaze_py', 'id': 1308350840655151105, 'displayname': 'SUZUKAZE@Python勉強中！', 'rawDescription': '東京のすみっこ暮らし/ギリギリ社会適合者(笑)/Single/駆け出しエンジニアと繋がりたい/Python/プログラミングが微妙に使えるレベル/機械学習/スクレイピング/独学で習得して自作アプリケーションをいろいろ運用中', 'renderedDescription': '東京のすみっこ暮らし/ギリギリ社会適合者(笑)/Single/駆け出しエンジニアと繋がりたい/Python/プログラミングが微妙に使えるレベル/機械学習/スクレイピング/独学で習得して自作アプリケーションをいろいろ運用中', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2020, 9, 22, 10, 22, 24, tzinfo=datetime.timezone.utc), 'followersCount': 775, 'friendsCount': 981, 'statusesCount': 4791, 'favouritesCount': 1296, 'listedCount': 4, 'mediaCount': 0, 'location': '東京のすみっこのほう', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1395929234984509450/zHsAzsKy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1308350840655151105/1621650440', 'label': None}","['プログラミング初心者', 'Python']",ja
+63,2023-01-19 23:23:27+00:00,1616214785225543688,Can't configure Kubernetes and Celery workers in Helm Chart https://t.co/YeQusP3S4G #github #Python #TypeScript #Shell #HTML #JavaScript #Dockerfile #Jinja #CSS #Jupyter Notebook #HCL #Mako #R,Can't configure Kubernetes and Celery workers in Helm Chart github.com/apache/airflow… #github #Python #TypeScript #Shell #HTML #JavaScript #Dockerfile #Jinja #CSS #Jupyter Notebook #HCL #Mako #R,"{'username': 'first_issues', 'id': 1078992647933448192, 'displayname': 'First Issues Bot', 'rawDescription': 'First Issue Tweet Bot', 'renderedDescription': 'First Issue Tweet Bot', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2018, 12, 29, 12, 34, 28, tzinfo=datetime.timezone.utc), 'followersCount': 506, 'friendsCount': 11, 'statusesCount': 460059, 'favouritesCount': 8, 'listedCount': 17, 'mediaCount': 2, 'location': '127.0.0.1', 'protected': False, 'link': {'text': 'github.com/arshadkazmi42/…', 'url': 'https://github.com/arshadkazmi42/first-issues', 'tcourl': 'https://t.co/icFfFEUXMi', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1099981721116659712/U96o-SWP_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1078992647933448192/1551091043', 'label': None}","['github', 'Python', 'TypeScript', 'Shell', 'HTML', 'JavaScript', 'Dockerfile', 'Jinja', 'CSS', 'Jupyter', 'HCL', 'Mako', 'R']",en
+64,2023-01-19 23:23:08+00:00,1616214706808553472,"The #Infographic below shares some surprising stats about the adoption of #IoT and #DigitalTransformation.
+
+Via @zConSolutions
+
+#Technology #Innovation #AI #MachineLearning #ML #BigData #ArtificialIntelligence #Programming #Python #Coding #DataScience #NeuralNetworks #OpenSource https://t.co/UTfGTJTTqb","The #Infographic below shares some surprising stats about the adoption of #IoT and #DigitalTransformation.
+
+Via @zConSolutions
+
+#Technology #Innovation #AI #MachineLearning #ML #BigData #ArtificialIntelligence #Programming #Python #Coding #DataScience #NeuralNetworks #OpenSource https://t.co/UTfGTJTTqb","{'username': 'TrinusOfficial', 'id': 820025704616062976, 'displayname': 'Trinus Corporation', 'rawDescription': 'Analytics | Business Intelligence | Data Management | IT Consulting Company', 'renderedDescription': 'Analytics | Business Intelligence | Data Management | IT Consulting Company', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 1, 13, 21, 52, 18, tzinfo=datetime.timezone.utc), 'followersCount': 769, 'friendsCount': 1521, 'statusesCount': 2611, 'favouritesCount': 137, 'listedCount': 9, 'mediaCount': 1853, 'location': 'Pasadena, CA', 'protected': False, 'link': {'text': 'trinus.com', 'url': 'http://www.trinus.com', 'tcourl': 'https://t.co/8gIEyUp9Yu', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1313572086728646657/qR0ZGYNb_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/820025704616062976/1602014990', 'label': None}","['Infographic', 'IoT', 'DigitalTransformation', 'Technology', 'Innovation', 'AI', 'MachineLearning', 'ML', 'BigData', 'ArtificialIntelligence', 'Programming', 'Python', 'Coding', 'DataScience', 'NeuralNetworks', 'OpenSource']",en
+65,2023-01-19 23:23:00+00:00,1616214674151718915,"Baker Hughes is looking for a Principal Machine Learning Engineer
+https://t.co/bPJ6v80kDj San Jose, CA, United States
+( Python  ML  AI ) 
+#machinelearning #Python","Baker Hughes is looking for a Principal Machine Learning Engineer
+tinyurl.com/7ykzff San Jose, CA, United States
+( Python  ML  AI ) 
+#machinelearning #Python","{'username': 'ML_Jobs_Feed', 'id': 1468496112223145984, 'displayname': 'Machine Learning Jobs Feed', 'rawDescription': 'An automated feed featuring Machine Learning, AI & Deep Learning Jobs!', 'renderedDescription': 'An automated feed featuring Machine Learning, AI & Deep Learning Jobs!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 12, 8, 8, 24, 29, tzinfo=datetime.timezone.utc), 'followersCount': 600, 'friendsCount': 0, 'statusesCount': 25373, 'favouritesCount': 0, 'listedCount': 1, 'mediaCount': 0, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1468505506746568705/Fe0cQHqw_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1468496112223145984/1638954482', 'label': None}","['machinelearning', 'Python']",en
+66,2023-01-19 23:23:00+00:00,1616214673996529665,"Multiple Python versions on Mac and how to set it up correctly
+{ by Daniil Korbut } from @hashnode
+
+#python #python3 #pythonbeginner #versioncontrol #pythonprojects https://t.co/3dnWTmt5nJ","Multiple Python versions on Mac and how to set it up correctly
+{ by Daniil Korbut } from @hashnode
+
+#python #python3 #pythonbeginner #versioncontrol #pythonprojects rtriangle.hashnode.dev/multiple-pytho…","{'username': 'DanielKorbut', 'id': 3806312543, 'displayname': 'rtriangle', 'rawDescription': 'ML Engineer @ Amazon Alexa', 'renderedDescription': 'ML Engineer @ Amazon Alexa', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2015, 9, 28, 18, 20, 57, tzinfo=datetime.timezone.utc), 'followersCount': 8, 'friendsCount': 18, 'statusesCount': 10, 'favouritesCount': 96, 'listedCount': 0, 'mediaCount': 0, 'location': 'London, UK', 'protected': False, 'link': {'text': 'medium.com/@daniilkorbut', 'url': 'https://medium.com/@daniilkorbut', 'tcourl': 'https://t.co/4eFT6q6bky', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1599484099424669698/7RJF-RPV_normal.jpg', 'profileBannerUrl': None, 'label': None}","['python', 'python3', 'pythonbeginner', 'versioncontrol', 'pythonprojects']",en
+67,2023-01-19 23:21:49+00:00,1616214374103785472,"Awesome job opening @ Columbia University Library ""Computational Research Instruction Librarian"" https://t.co/6MtQsjb2oT #jobs #rstats #python #HPC #libraries #datascience","Awesome job opening @ Columbia University Library ""Computational Research Instruction Librarian"" academic.careers.columbia.edu/#!/108290?keyw… #jobs #rstats #python #HPC #libraries #datascience","{'username': 'mulderc', 'id': 11673272, 'displayname': 'cameron mulder', 'rawDescription': 'Overeducated and under-caffeinated\n@mulderc@xoxo.zone', 'renderedDescription': 'Overeducated and under-caffeinated\n@mulderc@xoxo.zone', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2007, 12, 31, 0, 47, 45, tzinfo=datetime.timezone.utc), 'followersCount': 651, 'friendsCount': 422, 'statusesCount': 22191, 'favouritesCount': 3499, 'listedCount': 42, 'mediaCount': 439, 'location': 'Portland, OR', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1621050113/original_normal.png', 'profileBannerUrl': None, 'label': None}","['jobs', 'rstats', 'python', 'HPC', 'libraries', 'datascience']",en
+68,2023-01-19 23:21:43+00:00,1616214351647473664,"""Honey, go to the store and buy some eggs.""
+""OK.""
+""Oh and while you're there, get some milk.""
+He never returned.
+
+#programming #programmingjoke #programminghumor #Python #javascript #Java","""Honey, go to the store and buy some eggs.""
+""OK.""
+""Oh and while you're there, get some milk.""
+He never returned.
+
+#programming #programmingjoke #programminghumor #Python #javascript #Java","{'username': 'PadmashreeJha', 'id': 1401391924754325512, 'displayname': 'Padmashree Jha', 'rawDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog https://t.co/x0WxJtMM97', 'renderedDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog computer.hashnode.dev', 'descriptionLinks': [{'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (125, 148)}], 'verified': False, 'created': datetime.datetime(2021, 6, 6, 4, 14, 32, tzinfo=datetime.timezone.utc), 'followersCount': 396, 'friendsCount': 190, 'statusesCount': 33322, 'favouritesCount': 16147, 'listedCount': 11, 'mediaCount': 7364, 'location': 'Earth', 'protected': False, 'link': {'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1552268372972343296/UJMtHV3W_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1401391924754325512/1678021465', 'label': None}","['programming', 'programmingjoke', 'programminghumor', 'Python', 'javascript', 'Java']",en
+69,2023-01-19 23:20:29+00:00,1616214041302630407,"Consciousness without movement is knowledge.
+Movement with knowledge is imagination. Olivier Evan #programming #CodeNewbie #python #DataScience #gamedev #BigData #Coding #DataScience #MachineLearning  #OpenSource #AI #DEVCommunity   #neurotwitter #quote https://t.co/OOy1ru1qRp","Consciousness without movement is knowledge.
+Movement with knowledge is imagination. Olivier Evan #programming #CodeNewbie #python #DataScience #gamedev #BigData #Coding #DataScience #MachineLearning  #OpenSource #AI #DEVCommunity   #neurotwitter #quote https://t.co/OOy1ru1qRp","{'username': 'IntelligenceNa2', 'id': 1309393753459879937, 'displayname': 'Natural intelligence/Intelligence Naturelle', 'rawDescription': ""I don't think I mean it, but I understand it.\nJe ne pense pas que je le pense, mais je le comprend."", 'renderedDescription': ""I don't think I mean it, but I understand it.\nJe ne pense pas que je le pense, mais je le comprend."", 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2020, 9, 25, 7, 26, 25, tzinfo=datetime.timezone.utc), 'followersCount': 378, 'friendsCount': 845, 'statusesCount': 766, 'favouritesCount': 17, 'listedCount': 2, 'mediaCount': 611, 'location': 'Earth Planet', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1309442730813255682/Tkr02jwV_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1309393753459879937/1651433433', 'label': None}","['programming', 'CodeNewbie', 'python', 'DataScience', 'gamedev', 'BigData', 'Coding', 'DataScience', 'MachineLearning', 'OpenSource', 'AI', 'DEVCommunity', 'neurotwitter', 'quote']",en
+70,2023-01-19 23:20:14+00:00,1616213978295795716,"Weather at Fort Meade / Tipton, MD - via NOAA's National Weather Service
+Conditions: Light Rain Fog/Mist
+Barometer: 29.67 in (1004.8 mb)
+Temperature: 41°
+Winds: Calm. The humidity is 100%
+
+Powered by #Raspbian #Linux #Maker #Python","Weather at Fort Meade / Tipton, MD - via NOAA's National Weather Service
+Conditions: Light Rain Fog/Mist
+Barometer: 29.67 in (1004.8 mb)
+Temperature: 41°
+Winds: Calm. The humidity is 100%
+
+Powered by #Raspbian #Linux #Maker #Python","{'username': 'gpibot_g', 'id': 860401383308091392, 'displayname': 'g-pi', 'rawDescription': 'I like the Raspberry Pi!', 'renderedDescription': 'I like the Raspberry Pi!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 5, 5, 7, 50, 50, tzinfo=datetime.timezone.utc), 'followersCount': 83, 'friendsCount': 4, 'statusesCount': 104074, 'favouritesCount': 34, 'listedCount': 12, 'mediaCount': 7, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/861436535219953664/eXzInCPn_normal.jpg', 'profileBannerUrl': None, 'label': None}","['Raspbian', 'Linux', 'Maker', 'Python']",en
+71,2023-01-19 23:20:02+00:00,1616213925795696641,"✨ Mindera is hiring Data Engineer  
+
+🌇 Buenos Aires, Argentina, Argentina 
+💪 #python #kafka #sql 
+
+#tech #softwareengineer #jobs 
+https://t.co/9oPwtm4ux2","✨ Mindera is hiring Data Engineer  
+
+🌇 Buenos Aires, Argentina, Argentina 
+💪 #python #kafka #sql 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/mindera-da…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'kafka', 'sql', 'tech', 'softwareengineer', 'jobs']",es
+72,2023-01-19 23:20:01+00:00,1616213923329351681,"✋ Mindera is hiring Data Engineer  
+
+🌇 Brazil 
+💪 #python #java #aws 
+
+#tech #softwareengineer #jobs 
+https://t.co/ZEmmXN1M3M","✋ Mindera is hiring Data Engineer  
+
+🌇 Brazil 
+💪 #python #java #aws 
+
+#tech #softwareengineer #jobs 
+echojobs.io/job/mindera-da…","{'username': 'echojobs_io', 'id': 1506630582435987462, 'displayname': 'EchoJobs | Software Engineer Jobs', 'rawDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. https://t.co/Ic2Sy50mZS\n\nDM open but https://t.co/Gju7c2oovL', 'renderedDescription': 'Tweet about high-quality Software Engineer Job Opportunities. \nFollow for new jobs. discord.gg/RMRfANnRRz\n\nDM open but nohello.net', 'descriptionLinks': [{'text': 'discord.gg/RMRfANnRRz', 'url': 'http://discord.gg/RMRfANnRRz', 'tcourl': 'https://t.co/Ic2Sy50mZS', 'indices': (84, 107)}, {'text': 'nohello.net', 'url': 'http://nohello.net', 'tcourl': 'https://t.co/Gju7c2oovL', 'indices': (121, 144)}], 'verified': False, 'created': datetime.datetime(2022, 3, 23, 13, 55, 25, tzinfo=datetime.timezone.utc), 'followersCount': 1092, 'friendsCount': 61, 'statusesCount': 77537, 'favouritesCount': 105, 'listedCount': 11, 'mediaCount': 5, 'location': '', 'protected': False, 'link': {'text': 'echojobs.io', 'url': 'https://echojobs.io/', 'tcourl': 'https://t.co/B2iqTM0M1h', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1600703901199728641/Gobbp32c_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506630582435987462/1653946289', 'label': None}","['python', 'java', 'aws', 'tech', 'softwareengineer', 'jobs']",in
+73,2023-01-19 23:19:06+00:00,1616213691623522304,"See the performance of our active users 📊 👍🏽
+Start using our autotrader under https://t.co/ilHnXjY4GU! 🎯
+
+#BAYC #trade #lunc #bitcoin #MAYC #python https://t.co/vR63GahUgB","See the performance of our active users 📊 👍🏽
+Start using our autotrader under CallBotCrypto.xyz! 🎯
+
+#BAYC #trade #lunc #bitcoin #MAYC #python https://t.co/vR63GahUgB","{'username': 'CallBotCrypto', 'id': 1506427976912719873, 'displayname': 'CallBot Crypto Analyses', 'rawDescription': 'We love #blockchain and numbers - We make big data #crypto analyses accessible to everyone!\n\nDeveloping an #Autotrader for the Community!', 'renderedDescription': 'We love #blockchain and numbers - We make big data #crypto analyses accessible to everyone!\n\nDeveloping an #Autotrader for the Community!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 3, 23, 0, 30, 22, tzinfo=datetime.timezone.utc), 'followersCount': 1730, 'friendsCount': 6, 'statusesCount': 4172, 'favouritesCount': 268, 'listedCount': 11, 'mediaCount': 1473, 'location': '', 'protected': False, 'link': {'text': 'CallBotCrypto.com', 'url': 'https://CallBotCrypto.com/', 'tcourl': 'https://t.co/Dd3f5aq41y', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1506582556099203072/b9bB_V7__normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1506427976912719873/1672154826', 'label': None}","['BAYC', 'trade', 'lunc', 'bitcoin', 'MAYC', 'python']",en
+74,2023-01-19 23:18:20+00:00,1616213499667173377,"【132日目】
+
+おはようございます😃
+
+signage cloudの必須コース終了！20〜30%くらいしか分からなかった最初の頃に比べたら、随分理解度は増したと思います。分からなくてもとにかくやり続けるって大事やね👍
+
+【本日の予定】
+✅背中トレ
+✅ブログ
+✅TOEIC 
+✅Python
+
+#リベ大
+#ブログ
+#筋トレ
+#python https://t.co/jqTHL9u0zV","【132日目】
+
+おはようございます😃
+
+signage cloudの必須コース終了！20〜30%くらいしか分からなかった最初の頃に比べたら、随分理解度は増したと思います。分からなくてもとにかくやり続けるって大事やね👍
+
+【本日の予定】
+✅背中トレ
+✅ブログ
+✅TOEIC 
+✅Python
+
+#リベ大
+#ブログ
+#筋トレ
+#python https://t.co/jqTHL9u0zV","{'username': 'soheblog', 'id': 1399361101725274114, 'displayname': 'sohe@リベ大フィジーカー', 'rawDescription': '28歳の筋トレ大好き社会人|リベ大生🦁| 2021年2月 ブログ開始| 2022年2月 グーグルアドセンス合格 | 月4桁収益を9ヶ月継続中|年内に月5桁の収益化を目指して奮闘中', 'renderedDescription': '28歳の筋トレ大好き社会人|リベ大生🦁| 2021年2月 ブログ開始| 2022年2月 グーグルアドセンス合格 | 月4桁収益を9ヶ月継続中|年内に月5桁の収益化を目指して奮闘中', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 5, 31, 13, 44, 28, tzinfo=datetime.timezone.utc), 'followersCount': 972, 'friendsCount': 900, 'statusesCount': 742, 'favouritesCount': 1646, 'listedCount': 9, 'mediaCount': 101, 'location': '', 'protected': False, 'link': {'text': 'sohe.blog', 'url': 'https://www.sohe.blog', 'tcourl': 'https://t.co/EHf0y5eD18', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1399364775407013897/-lJwqzVg_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1399361101725274114/1622469613', 'label': None}","['リベ大', 'ブログ', '筋トレ', 'python']",ja
+75,2023-01-19 23:17:29+00:00,1616213285153693696,"2023/01/20
+6129回 ナンバーズ3の数字予想
+
+100の位 軸数字 9
+
+100桁 9,7,6
+10桁 3,4,8
+1桁 7,0,2
+
+※購入は自己責任自己判断で
+
+ #宝くじ #Numbers3 #ナンバーズ3 #Python #機械学習","2023/01/20
+6129回 ナンバーズ3の数字予想
+
+100の位 軸数字 9
+
+100桁 9,7,6
+10桁 3,4,8
+1桁 7,0,2
+
+※購入は自己責任自己判断で
+
+ #宝くじ #Numbers3 #ナンバーズ3 #Python #機械学習","{'username': 'num3_AI', 'id': 1614857363458248704, 'displayname': 'バーズスリーナン', 'rawDescription': 'Pythonの機械学習でナンバーズ3の数字を予測しています。', 'renderedDescription': 'Pythonの機械学習でナンバーズ3の数字を予測しています。', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2023, 1, 16, 5, 29, 50, tzinfo=datetime.timezone.utc), 'followersCount': 16, 'friendsCount': 6, 'statusesCount': 72, 'favouritesCount': 33, 'listedCount': 0, 'mediaCount': 0, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1614858685163147264/2NDFURwI_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1614857363458248704/1673847321', 'label': None}","['宝くじ', 'Numbers3', 'ナンバーズ3', 'Python', '機械学習']",ja
+76,2023-01-19 23:15:41+00:00,1616212830537273345,"It s true for me is it for you ?
+
+#Python #javascript #programming #programminghumor #programmingmemes https://t.co/AwnNjRB7Lb","It s true for me is it for you ?
+
+#Python #javascript #programming #programminghumor #programmingmemes https://t.co/AwnNjRB7Lb","{'username': 'PadmashreeJha', 'id': 1401391924754325512, 'displayname': 'Padmashree Jha', 'rawDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog https://t.co/x0WxJtMM97', 'renderedDescription': 'A blockchain and full-stack MERN and ML developer wo just want to entertain you follow me for my ride to the MOOOON. My blog computer.hashnode.dev', 'descriptionLinks': [{'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (125, 148)}], 'verified': False, 'created': datetime.datetime(2021, 6, 6, 4, 14, 32, tzinfo=datetime.timezone.utc), 'followersCount': 396, 'friendsCount': 190, 'statusesCount': 33322, 'favouritesCount': 16147, 'listedCount': 11, 'mediaCount': 7364, 'location': 'Earth', 'protected': False, 'link': {'text': 'computer.hashnode.dev', 'url': 'https://computer.hashnode.dev/', 'tcourl': 'https://t.co/x0WxJtMM97', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1552268372972343296/UJMtHV3W_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1401391924754325512/1678021465', 'label': None}","['Python', 'javascript', 'programming', 'programminghumor', 'programmingmemes']",en
+77,2023-01-19 23:15:04+00:00,1616212674655698945,10 Python Concepts That You Must Know (with Examples): https://t.co/k2WBmA5rlu #Programming #SoftwareDevelopment #DataScience #Python #MachineLearning,10 Python Concepts That You Must Know (with Examples): python.plainenglish.io/10-python-conc… #Programming #SoftwareDevelopment #DataScience #Python #MachineLearning,"{'username': 'PY_PlainEnglish', 'id': 1348201426271535104, 'displayname': 'Python in Plain English', 'rawDescription': '✍️ New #Python articles every day. \n📚 @inPlainEngHQ family.', 'renderedDescription': '✍️ New #Python articles every day. \n📚 @inPlainEngHQ family.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2021, 1, 10, 9, 34, 11, tzinfo=datetime.timezone.utc), 'followersCount': 919, 'friendsCount': 11, 'statusesCount': 6341, 'favouritesCount': 46, 'listedCount': 18, 'mediaCount': 0, 'location': '$ python', 'protected': False, 'link': {'text': 'python.plainenglish.io', 'url': 'https://python.plainenglish.io', 'tcourl': 'https://t.co/xh0m77XY91', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1512774701956882436/WfCJZFfi_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1348201426271535104/1649508570', 'label': None}","['Programming', 'SoftwareDevelopment', 'DataScience', 'Python', 'MachineLearning']",en
+78,2023-01-19 23:14:53+00:00,1616212632058437633,"Today Learn to open and edit files I. Python with w function. But iam really tier, tomorrow I will continue with my learnings...
+Need to practice and take some notes..#Python #100DaysOfCode #dontstopbelieving","Today Learn to open and edit files I. Python with w function. But iam really tier, tomorrow I will continue with my learnings...
+Need to practice and take some notes..#Python #100DaysOfCode #dontstopbelieving","{'username': 'eden_mealhada', 'id': 1537154732, 'displayname': 'João Lourenço', 'rawDescription': 'Simple guy, who love to learn programing and IT stuff, my only defect os iam to humble.', 'renderedDescription': 'Simple guy, who love to learn programing and IT stuff, my only defect os iam to humble.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2013, 6, 21, 19, 9, 38, tzinfo=datetime.timezone.utc), 'followersCount': 31, 'friendsCount': 334, 'statusesCount': 366, 'favouritesCount': 484, 'listedCount': 0, 'mediaCount': 56, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/378800000564242147/6ce5737a8122f009f9bce277f1e10d8a_normal.jpeg', 'profileBannerUrl': None, 'label': None}","['Python', '100DaysOfCode', 'dontstopbelieving']",en
+79,2023-01-19 23:14:31+00:00,1616212538097532928,"My god it’s true 
+
+#python #blacktechtwitter #DEVCommunity #javascript #womenintech #codenewbie #coding #womenwhocode #100devs #100daysofcode #programming
+
+Try Amazon Prime 30-Day Free @ https://t.co/JdaL8wykfs https://t.co/rew9cNVHGn","My god it’s true 
+
+#python #blacktechtwitter #DEVCommunity #javascript #womenintech #codenewbie #coding #womenwhocode #100devs #100daysofcode #programming
+
+Try Amazon Prime 30-Day Free @ amzn.to/3jGb346 https://t.co/rew9cNVHGn","{'username': 'CourseOp', 'id': 1042633271421689857, 'displayname': 'Online Course Ops', 'rawDescription': 'Up your skills and career opportunities with free premium courses.  Updated regularly\n\nSubmit your course @ https://t.co/PMPY3qnDqB\n\nDonate @ https://t.co/HYkyH0g80f', 'renderedDescription': 'Up your skills and career opportunities with free premium courses.  Updated regularly\n\nSubmit your course @ bit.ly/udemies\n\nDonate @ liberapay.com/jucktion', 'descriptionLinks': [{'text': 'bit.ly/udemies', 'url': 'http://bit.ly/udemies', 'tcourl': 'https://t.co/PMPY3qnDqB', 'indices': (108, 131)}, {'text': 'liberapay.com/jucktion', 'url': 'http://liberapay.com/jucktion', 'tcourl': 'https://t.co/HYkyH0g80f', 'indices': (142, 165)}], 'verified': False, 'created': datetime.datetime(2018, 9, 20, 4, 35, 17, tzinfo=datetime.timezone.utc), 'followersCount': 5063, 'friendsCount': 2724, 'statusesCount': 63362, 'favouritesCount': 112726, 'listedCount': 42, 'mediaCount': 4734, 'location': 'Not affiliated w/ Udemy', 'protected': False, 'link': {'text': 'facebook.com/couponn', 'url': 'https://www.facebook.com/couponn', 'tcourl': 'https://t.co/zPKNXEHtQl', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1042752273716326400/4fXbScZ1_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1042633271421689857/1537446393', 'label': None}","['python', 'blacktechtwitter', 'DEVCommunity', 'javascript', 'womenintech', 'codenewbie', 'coding', 'womenwhocode', '100devs', '100daysofcode', 'programming']",en
+80,2023-01-19 23:12:43+00:00,1616212083158437894,"Python版オブジェクト指向の三大要素
+
+https://t.co/BFcoN3XvoA
+#Python #オブジェクト指向","Python版オブジェクト指向の三大要素
+
+pract.webcrow.jp/pages/contents…
+#Python #オブジェクト指向","{'username': 'Pract1328', 'id': 886804610978992128, 'displayname': 'Panda@プログラミング演習', 'rawDescription': 'PHPでWebサービスを作っています。好きな言語はC/C++,Python, PHP。プログラミングがとにかく好きです。あとブロックチェーンと仮想通貨も好きです。フォロー返します。ぜにぃ亀というBitZeny価格を呟くBotを作りました。 ⇒ @znygame0', 'renderedDescription': 'PHPでWebサービスを作っています。好きな言語はC/C++,Python, PHP。プログラミングがとにかく好きです。あとブロックチェーンと仮想通貨も好きです。フォロー返します。ぜにぃ亀というBitZeny価格を呟くBotを作りました。 ⇒ @znygame0', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 7, 17, 4, 27, 50, tzinfo=datetime.timezone.utc), 'followersCount': 607, 'friendsCount': 547, 'statusesCount': 6492, 'favouritesCount': 33, 'listedCount': 6, 'mediaCount': 3, 'location': '', 'protected': False, 'link': {'text': 'pract.webcrow.jp', 'url': 'http://pract.webcrow.jp/', 'tcourl': 'https://t.co/Oj0GM0eA20', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/937131827428331520/_ftoF5wm_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/886804610978992128/1500265848', 'label': None}","['Python', 'オブジェクト指向']",ja
+81,2023-01-19 23:11:41+00:00,1616211826542317573,"No. MMCMXXXII
+#grayway #shapeways #drawing #processing #python #creativecoding #generativeart #jimbo https://t.co/El5SIJnBvE","No. MMCMXXXII
+#grayway #shapeways #drawing #processing #python #creativecoding #generativeart #jimbo https://t.co/El5SIJnBvE","{'username': 'shapewaze', 'id': 892212856510349312, 'displayname': 'Shapeways', 'rawDescription': 'Casually tweeting drawings of randomly composed shapes; arranged and colored at random.\n\n©2014-2022 JHubbell (All rights reserved)', 'renderedDescription': 'Casually tweeting drawings of randomly composed shapes; arranged and colored at random.\n\n©2014-2022 JHubbell (All rights reserved)', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2017, 8, 1, 2, 38, 16, tzinfo=datetime.timezone.utc), 'followersCount': 58, 'friendsCount': 8, 'statusesCount': 5304, 'favouritesCount': 97, 'listedCount': 1, 'mediaCount': 5302, 'location': 'Your dreams.', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1434644814344114179/640iB1ex_normal.png', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/892212856510349312/1630880954', 'label': None}","['grayway', 'shapeways', 'drawing', 'processing', 'python', 'creativecoding', 'generativeart', 'jimbo']",sl
+82,2023-01-19 23:10:08+00:00,1616211433729196032,"Pythonのnamedtuplesでクラス定義よりもコードがシンプルになる理由
+
+from collections import namedtuple
+Car = namedtuple('Car', 'color mileage')
+
+# ""Car"" classは以下のように使う:
+my_car = Car('red', 3812.4)
+my_car.color
+&gt;&gt;&gt;'red'
+ my_car.mileage
+&gt;&gt;&gt;3812.4
+
+#Python 
+#プログラミング","Pythonのnamedtuplesでクラス定義よりもコードがシンプルになる理由
+
+from collections import namedtuple
+Car = namedtuple('Car', 'color mileage')
+
+# ""Car"" classは以下のように使う:
+my_car = Car('red', 3812.4)
+my_car.color
+&gt;&gt;&gt;'red'
+ my_car.mileage
+&gt;&gt;&gt;3812.4
+
+#Python 
+#プログラミング","{'username': 'mhPZPibVjOUsZaZ', 'id': 1265238433716252673, 'displayname': '銀行員からマーケターに転職', 'rawDescription': '▶︎銀行から大手事業会社のWebマーケティング部へ▶︎独立のため副業として起業▶︎5つ以上の事業を検証し3ヶ月で収益化▶︎まだまだこれからですが事業を立ち上げた経験と、これからの事業展開をつぶやきます。', 'renderedDescription': '▶︎銀行から大手事業会社のWebマーケティング部へ▶︎独立のため副業として起業▶︎5つ以上の事業を検証し3ヶ月で収益化▶︎まだまだこれからですが事業を立ち上げた経験と、これからの事業展開をつぶやきます。', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2020, 5, 26, 11, 8, 54, tzinfo=datetime.timezone.utc), 'followersCount': 110, 'friendsCount': 211, 'statusesCount': 3204, 'favouritesCount': 121, 'listedCount': 17, 'mediaCount': 17, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1623347147994464256/ffotwHnR_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1265238433716252673/1674976836', 'label': None}","['Python', 'プログラミング']",ja
+83,2023-01-19 23:09:02+00:00,1616211159555743744,"For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Economics
+Stas
+#Accounting
+
+#MachineLearning
+#DataScience
+#Python #Cybersecurity #BigData #AI #IoT #DeepLearning
+ #NLP
+#javascript
+#robots
+
+Hit our Bio for More info:) https://t.co/oR0ErdNBad","For quality assignment help,DM us
+#Essays
+#Research
+Exams
+#Onlineclass
+#Calculus
+Chemistry
+#Thesis
+#Law
+Finance
+#Economics
+Stas
+#Accounting
+
+#MachineLearning
+#DataScience
+#Python #Cybersecurity #BigData #AI #IoT #DeepLearning
+ #NLP
+#javascript
+#robots
+
+Hit our Bio for More info:) https://t.co/oR0ErdNBad","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Essays', 'Research', 'Onlineclass', 'Calculus', 'Thesis', 'Law', 'Economics', 'Accounting', 'MachineLearning', 'DataScience', 'Python', 'Cybersecurity', 'BigData', 'AI', 'IoT', 'DeepLearning', 'NLP', 'javascript', 'robots']",en
+84,2023-01-19 23:08:29+00:00,1616211019231121412,"Hire us to Do your:-
+#Assignments
+#Accounting
+#calculus 
+#homework
+#fallclasses
+#Onlineclass 
+#essayhelp
+#Finance
+#Essaydue
+#essaywrite
+#Music
+#Art
+#Law
+
+#Fallsemester
+#AI
+#Javascript
+#Python
+#Programming
+#Newbies
+#100daysofcode
+#webdev
+#Datascience
+
+Hit our Bio for More info:) https://t.co/j2OCNOhmcE","Hire us to Do your:-
+#Assignments
+#Accounting
+#calculus 
+#homework
+#fallclasses
+#Onlineclass 
+#essayhelp
+#Finance
+#Essaydue
+#essaywrite
+#Music
+#Art
+#Law
+
+#Fallsemester
+#AI
+#Javascript
+#Python
+#Programming
+#Newbies
+#100daysofcode
+#webdev
+#Datascience
+
+Hit our Bio for More info:) https://t.co/j2OCNOhmcE","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Assignments', 'Accounting', 'calculus', 'homework', 'fallclasses', 'Onlineclass', 'essayhelp', 'Finance', 'Essaydue', 'essaywrite', 'Music', 'Art', 'Law', 'Fallsemester', 'AI', 'Javascript', 'Python', 'Programming', 'Newbies', '100daysofcode', 'webdev', 'Datascience']",en
+85,2023-01-19 23:08:16+00:00,1616210964851851266,"Pay us to do or write your 
+#Assignments
+#Tests
+#calculus
+#homework
+#Homeworkhelp
+#Quizzes
+#Onlineclass
+#essayhelp
+#Essaydue
+#essaywrite
+#Essays
+#Music
+#Javascript
+#Python
+#programminghumor
+
+#CodeNewbies 
+#100daysofcode
+#webdevelopment 
+#Datascience
+Hit our Bio for More info:) https://t.co/YLpxHlsGDO","Pay us to do or write your 
+#Assignments
+#Tests
+#calculus
+#homework
+#Homeworkhelp
+#Quizzes
+#Onlineclass
+#essayhelp
+#Essaydue
+#essaywrite
+#Essays
+#Music
+#Javascript
+#Python
+#programminghumor
+
+#CodeNewbies 
+#100daysofcode
+#webdevelopment 
+#Datascience
+Hit our Bio for More info:) https://t.co/YLpxHlsGDO","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Assignments', 'Tests', 'calculus', 'homework', 'Homeworkhelp', 'Quizzes', 'Onlineclass', 'essayhelp', 'Essaydue', 'essaywrite', 'Essays', 'Music', 'Javascript', 'Python', 'programminghumor', 'CodeNewbies', '100daysofcode', 'webdevelopment', 'Datascience']",en
+86,2023-01-19 23:08:04+00:00,1616210914209927173,"Pay us to do or write your 
+#Assignments
+#Tests
+#calculus
+#homework
+#Homeworkhelp
+#Quizzes
+#Onlineclass
+#essayhelp
+#Essaydue
+#essaywrite
+#Essays
+#Music
+#Javascript
+#Python
+#programminghumor
+
+#CodeNewbies 
+#100daysofcode
+#webdevelopment 
+#Datascience
+Hit our Bio for More info:) https://t.co/o0arPETIOn","Pay us to do or write your 
+#Assignments
+#Tests
+#calculus
+#homework
+#Homeworkhelp
+#Quizzes
+#Onlineclass
+#essayhelp
+#Essaydue
+#essaywrite
+#Essays
+#Music
+#Javascript
+#Python
+#programminghumor
+
+#CodeNewbies 
+#100daysofcode
+#webdevelopment 
+#Datascience
+Hit our Bio for More info:) https://t.co/o0arPETIOn","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Assignments', 'Tests', 'calculus', 'homework', 'Homeworkhelp', 'Quizzes', 'Onlineclass', 'essayhelp', 'Essaydue', 'essaywrite', 'Essays', 'Music', 'Javascript', 'Python', 'programminghumor', 'CodeNewbies', '100daysofcode', 'webdevelopment', 'Datascience']",en
+87,2023-01-19 23:07:55+00:00,1616210876704358400,"Installation - Python for blockchain developers
+
+In this video, we talked about the Blockchain, Python programming language, the two web3 API services that we will be using(Infura and Moralis), Ganache, and the web3 python library. 
+
+https://t.co/YEnKQHfHBd
+
+#Python #blockchain https://t.co/jN8K83zuG1","Installation - Python for blockchain developers
+
+In this video, we talked about the Blockchain, Python programming language, the two web3 API services that we will be using(Infura and Moralis), Ganache, and the web3 python library. 
+
+youtu.be/hPfpGn-Bqg4
+
+#Python #blockchain https://t.co/jN8K83zuG1","{'username': 'velcast_podcast', 'id': 1516907467657076737, 'displayname': 'Velcast Podcast', 'rawDescription': 'Your one-stop destination for everything technology, development, and discussions.\n\nPutting Africa on the MAP 🌍\nInstagram: @velcast_podcast', 'renderedDescription': 'Your one-stop destination for everything technology, development, and discussions.\n\nPutting Africa on the MAP 🌍\nInstagram: @velcast_podcast', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 4, 20, 22, 31, 58, tzinfo=datetime.timezone.utc), 'followersCount': 114, 'friendsCount': 1, 'statusesCount': 174, 'favouritesCount': 381, 'listedCount': 0, 'mediaCount': 51, 'location': 'Lagos, Nigeria.', 'protected': False, 'link': {'text': 'youtube.com/channel/UCNhFx…', 'url': 'https://www.youtube.com/channel/UCNhFxpk6hGt5uMCKXq0Jl8A', 'tcourl': 'https://t.co/aIlxwpmEAb', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1517087208162926597/CezLkzQb_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1516907467657076737/1650536753', 'label': None}","['Python', 'blockchain']",en
+88,2023-01-19 23:07:04+00:00,1616210662207668225,"Hello, do you need assistance with your homework??
+Biology
+Chemistry
+Physics
+Accounting
+Physiology
+Pharmacology
+Biochemistry
+English,
+Math
+Ecology
+Anatomy
+Essays
+Online classes
+
+#Python #data #AI #CodeNewbies #100DaysOfCode  #programming 
+#javascript #Serverless 
+Hit our Bio 📩 https://t.co/FzcE3oG6rg","Hello, do you need assistance with your homework??
+Biology
+Chemistry
+Physics
+Accounting
+Physiology
+Pharmacology
+Biochemistry
+English,
+Math
+Ecology
+Anatomy
+Essays
+Online classes
+
+#Python #data #AI #CodeNewbies #100DaysOfCode  #programming 
+#javascript #Serverless 
+Hit our Bio 📩 https://t.co/FzcE3oG6rg","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Python', 'data', 'AI', 'CodeNewbies', '100DaysOfCode', 'programming', 'javascript', 'Serverless']",en
+89,2023-01-19 23:06:38+00:00,1616210552149397506,"This Fall, let's handle your:-
+#Assignments
+#Calculus
+#Homework
+#Fallclasses
+#Onlineclass
+#Finance
+#Accounting
+#Essaydue
+#Engineering
+#Music
+#Art
+#Nursing
+#Law
+#Javascript
+#Python
+#Programming
+
+#Fallsemester
+#CodeNewbies 
+#100daysofcode
+#AI
+#WebDev
+Hit our Bio for More info:) https://t.co/XGYvLvsImz","This Fall, let's handle your:-
+#Assignments
+#Calculus
+#Homework
+#Fallclasses
+#Onlineclass
+#Finance
+#Accounting
+#Essaydue
+#Engineering
+#Music
+#Art
+#Nursing
+#Law
+#Javascript
+#Python
+#Programming
+
+#Fallsemester
+#CodeNewbies 
+#100daysofcode
+#AI
+#WebDev
+Hit our Bio for More info:) https://t.co/XGYvLvsImz","{'username': '_HomeworkGurus', 'id': 1608875805442035712, 'displayname': 'Creative Writers', 'rawDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nhttps://t.co/eOZmiuJk5e', 'renderedDescription': 'Our Services are:- Research Writing, Essays, Articles, Reports, and All Academics queries. DM or 📧 expertsacademics609@gmail.com. \nwa.me/16788813704', 'descriptionLinks': [{'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (131, 154)}], 'verified': False, 'created': datetime.datetime(2022, 12, 30, 17, 21, 55, tzinfo=datetime.timezone.utc), 'followersCount': 119, 'friendsCount': 515, 'statusesCount': 7109, 'favouritesCount': 3562, 'listedCount': 0, 'mediaCount': 3410, 'location': 'New York, USA', 'protected': False, 'link': {'text': 'wa.me/16788813704', 'url': 'http://wa.me/16788813704', 'tcourl': 'https://t.co/eOZmiuJk5e', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1608879940803469314/M_NTZkWy_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1608875805442035712/1672421906', 'label': None}","['Assignments', 'Calculus', 'Homework', 'Fallclasses', 'Onlineclass', 'Finance', 'Accounting', 'Essaydue', 'Engineering', 'Music', 'Art', 'Nursing', 'Law', 'Javascript', 'Python', 'Programming', 'Fallsemester', 'CodeNewbies', '100daysofcode', 'AI', 'WebDev']",en
+90,2023-01-19 23:06:04+00:00,1616210413061799936,"What use cases, Businesses, and Applications do you think will be developed and change day to day life or society? Drop your answers below 👇🏽
+
+$agix #agix $btc $eth $ltc #artificalintelligence #ai #ido #artificialintelligence #ai #machinelearning #technology #datascience #python https://t.co/subPHywCpk","What use cases, Businesses, and Applications do you think will be developed and change day to day life or society? Drop your answers below 👇🏽
+
+$agix #agix $btc $eth $ltc #artificalintelligence #ai #ido #artificialintelligence #ai #machinelearning #technology #datascience #python https://t.co/subPHywCpk","{'username': 'AIPADTECH', 'id': 1516845928891756545, 'displayname': 'AIPAD.TECH', 'rawDescription': 'Welcome to #AIPad, the revolutionary #launchpad focused on delivering the best of Artificial Intelligence projects in #Crypto!', 'renderedDescription': 'Welcome to #AIPad, the revolutionary #launchpad focused on delivering the best of Artificial Intelligence projects in #Crypto!', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 4, 20, 18, 27, 39, tzinfo=datetime.timezone.utc), 'followersCount': 55367, 'friendsCount': 19, 'statusesCount': 148, 'favouritesCount': 155, 'listedCount': 72, 'mediaCount': 62, 'location': 'Live! - KuCoin - Pancake - Uni', 'protected': False, 'link': {'text': 'aipad.tech', 'url': 'http://www.aipad.tech', 'tcourl': 'https://t.co/1zrPvN1bLZ', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1630451076905197571/LDYPHW1i_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1516845928891756545/1677684799', 'label': None}","['agix', 'artificalintelligence', 'ai', 'ido', 'artificialintelligence', 'ai', 'machinelearning', 'technology', 'datascience', 'python']",en
+91,2023-01-19 23:05:51+00:00,1616210356421943297,"BEFORE AND AFTER CODING... 
+
+C++, JavaScript, Java, Python. 
+
+#programming #coding #programmerhumor #humor #programminglanguages #cplusplus #javascript #java #python https://t.co/TuqPvtSz07","BEFORE AND AFTER CODING... 
+
+C++, JavaScript, Java, Python. 
+
+#programming #coding #programmerhumor #humor #programminglanguages #cplusplus #javascript #java #python https://t.co/TuqPvtSz07","{'username': 'murat_purc', 'id': 37623235, 'displayname': 'Murat Purç', 'rawDescription': ""Bits N' Bytes Juggling, Web Development, Software Engineering, Technology."", 'renderedDescription': ""Bits N' Bytes Juggling, Web Development, Software Engineering, Technology."", 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2009, 5, 4, 8, 40, 24, tzinfo=datetime.timezone.utc), 'followersCount': 825, 'friendsCount': 827, 'statusesCount': 3353, 'favouritesCount': 6488, 'listedCount': 95, 'mediaCount': 493, 'location': 'Augsburg, Germany', 'protected': False, 'link': {'text': 'purc.de', 'url': 'http://www.purc.de', 'tcourl': 'https://t.co/9p9FVvo1NY', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1476325403207868418/NCOUnQZ1_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/37623235/1401904965', 'label': None}","['programming', 'coding', 'programmerhumor', 'humor', 'programminglanguages', 'cplusplus', 'javascript', 'java', 'python']",en
+92,2023-01-19 23:05:00+00:00,1616210142550171654,"Cynthia has created a 3D model of an ornament using Tinkercad. Well done, Cynthia! 🎅🏼🎄👏🏼
+
+#m2mtechbytes #coding #design #designthinking #news  #100DaysOfCode #GirlsWhoCode #tech #coding #compsci #3DModelling  #STEM #programming #python   #javascript #bigdata @tinkercad https://t.co/w3zrNEdviB","Cynthia has created a 3D model of an ornament using Tinkercad. Well done, Cynthia! 🎅🏼🎄👏🏼
+
+#m2mtechbytes #coding #design #designthinking #news  #100DaysOfCode #GirlsWhoCode #tech #coding #compsci #3DModelling  #STEM #programming #python   #javascript #bigdata @tinkercad https://t.co/w3zrNEdviB","{'username': 'techbytesorg', 'id': 1129030218813829120, 'displayname': 'Tech Bytes Foundation', 'rawDescription': 'We specialize in conducting year round STEM challenges. Join us for developing Creative Ideas into Coding/Design Thinking skills sought after by Tech Companies.', 'renderedDescription': 'We specialize in conducting year round STEM challenges. Join us for developing Creative Ideas into Coding/Design Thinking skills sought after by Tech Companies.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2019, 5, 16, 14, 25, 55, tzinfo=datetime.timezone.utc), 'followersCount': 443, 'friendsCount': 191, 'statusesCount': 1684, 'favouritesCount': 1324, 'listedCount': 4, 'mediaCount': 1312, 'location': 'Greater Vancouver, BC', 'protected': False, 'link': {'text': 'techbytesfoundation.org', 'url': 'https://techbytesfoundation.org', 'tcourl': 'https://t.co/XspbUZhFVt', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1632114495253516289/y258Hx0I_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1129030218813829120/1641072087', 'label': None}","['m2mtechbytes', 'coding', 'design', 'designthinking', 'news', '100DaysOfCode', 'GirlsWhoCode', 'tech', 'coding', 'compsci', '3DModelling', 'STEM', 'programming', 'python', 'javascript', 'bigdata']",en
+93,2023-01-19 23:04:49+00:00,1616210097620779009,"If you spend more on coffee than on IT security, you will be hacked. What’s more, you deserve to be hacked.
+
+#hacker #hacking #cybersecurity #hackers #hack #ethicalhacking #linux #programming #kalilinux #coding #technology #security #infosec #ethicalhacker #python #programmer","If you spend more on coffee than on IT security, you will be hacked. What’s more, you deserve to be hacked.
+
+#hacker #hacking #cybersecurity #hackers #hack #ethicalhacking #linux #programming #kalilinux #coding #technology #security #infosec #ethicalhacker #python #programmer","{'username': 'harsh___hack', 'id': 1592296927047065602, 'displayname': 'harsh___hack', 'rawDescription': 'All social media recovery, cyber recovery, icloud unlock, lost #btc #bnb #crypto..still remains by Gods work', 'renderedDescription': 'All social media recovery, cyber recovery, icloud unlock, lost #btc #bnb #crypto..still remains by Gods work', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 11, 14, 23, 22, 49, tzinfo=datetime.timezone.utc), 'followersCount': 19, 'friendsCount': 1, 'statusesCount': 3802, 'favouritesCount': 228, 'listedCount': 1, 'mediaCount': 237, 'location': 'England, United Kingdom', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1606728003236630530/r0vIoue__normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1592296927047065602/1671743450', 'label': None}","['hacker', 'hacking', 'cybersecurity', 'hackers', 'hack', 'ethicalhacking', 'linux', 'programming', 'kalilinux', 'coding', 'technology', 'security', 'infosec', 'ethicalhacker', 'python', 'programmer']",en
+94,2023-01-19 23:00:35+00:00,1616209031684624396,"Chill out with us at Radio Future:  
+
+Radio Station - https://t.co/VhuMkSdgyp
+
+Stream Url - https://t.co/AeOoXboTWD
+
+ #Letsconnect #NFT #Web3 #Tech #Music #Radio #Song #AI #ML #Python #100daysofcode #React #Coding #DataScience https://t.co/5v2YDlVbjb","Chill out with us at Radio Future:  
+
+Radio Station - ift.tt/hKU62G1
+
+Stream Url - ift.tt/btx7PZC
+
+ #Letsconnect #NFT #Web3 #Tech #Music #Radio #Song #AI #ML #Python #100daysofcode #React #Coding #DataScience https://t.co/5v2YDlVbjb","{'username': 'Radio_Future_', 'id': 1537807499965112320, 'displayname': 'Radio Future', 'rawDescription': 'Radio Future is the first and only radio station that focuses on everything futuristic. We are a 24-hour English station featuring good music and interviews.', 'renderedDescription': 'Radio Future is the first and only radio station that focuses on everything futuristic. We are a 24-hour English station featuring good music and interviews.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 6, 17, 14, 49, 25, tzinfo=datetime.timezone.utc), 'followersCount': 108, 'friendsCount': 136, 'statusesCount': 3051, 'favouritesCount': 667, 'listedCount': 2, 'mediaCount': 1669, 'location': 'New York City, New York', 'protected': False, 'link': {'text': 'stream.zeno.fm/ccq4nqfsy0ctv', 'url': 'http://stream.zeno.fm/ccq4nqfsy0ctv', 'tcourl': 'https://t.co/LLrpsR0xet', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1601894969781850114/1LZWm45e_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1537807499965112320/1670756500', 'label': None}","['Letsconnect', 'NFT', 'Web3', 'Tech', 'Music', 'Radio', 'Song', 'AI', 'ML', 'Python', '100daysofcode', 'React', 'Coding', 'DataScience']",en
+95,2023-01-19 23:00:19+00:00,1616208964462514191,"💡 NEW IN #IoT 
+
+#MachineLearning algorithms to use per use case: https://t.co/LlBbAMKH7k
+
+cc: @gp_pulipaka @KirkDBorne @Paula_Piccard @MikeQuindazzi 
+#Python #100DaysOfCode #BigData https://t.co/AoK0ferKXG","💡 NEW IN #IoT 
+
+#MachineLearning algorithms to use per use case: fal.cn/3vfmh
+
+cc: @gp_pulipaka @KirkDBorne @Paula_Piccard @MikeQuindazzi 
+#Python #100DaysOfCode #BigData https://t.co/AoK0ferKXG","{'username': 'insightdottech', 'id': 800935720080855044, 'displayname': 'insight.tech', 'rawDescription': 'THE source for the latest and greatest #IoT solutions, innovations and trends. #AI, #IIoT, #5G, #Cloud, #Retail #FutureOfWork, #HealthTech & more.', 'renderedDescription': 'THE source for the latest and greatest #IoT solutions, innovations and trends. #AI, #IIoT, #5G, #Cloud, #Retail #FutureOfWork, #HealthTech & more.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2016, 11, 22, 5, 35, 31, tzinfo=datetime.timezone.utc), 'followersCount': 4762, 'friendsCount': 2119, 'statusesCount': 11548, 'favouritesCount': 5923, 'listedCount': 71, 'mediaCount': 3566, 'location': 'San Francisco, CA', 'protected': False, 'link': {'text': 'insight.tech', 'url': 'https://www.insight.tech', 'tcourl': 'https://t.co/MBvVD29H2N', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1124443034542678017/cvsXzjtf_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/800935720080855044/1619446433', 'label': None}","['IoT', 'MachineLearning', 'Python', '100DaysOfCode', 'BigData']",en
+96,2023-01-19 23:00:14+00:00,1616208942660751361,Course that can help you with the deployment part of things [Resource] #Python https://t.co/8KByQ936E6,Course that can help you with the deployment part of things [Resource] #Python reddit.com/r/Python/comme…,"{'username': 'data_cyborg', 'id': 1479782355200008195, 'displayname': 'Data Cyborg', 'rawDescription': 'Half human - half bot account about software/data engineering.\nBot part posts the best daily posts in some /r (Pinned)\nHuman part posts non-automated content.', 'renderedDescription': 'Half human - half bot account about software/data engineering.\nBot part posts the best daily posts in some /r (Pinned)\nHuman part posts non-automated content.', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 1, 8, 11, 50, 17, tzinfo=datetime.timezone.utc), 'followersCount': 73, 'friendsCount': 166, 'statusesCount': 6861, 'favouritesCount': 52, 'listedCount': 3, 'mediaCount': 6, 'location': 'Reddit', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1491000278983876609/wkLXPF6V_normal.jpg', 'profileBannerUrl': None, 'label': None}",['Python'],en
+97,2023-01-19 23:00:12+00:00,1616208934293114880,ラズベリーパイより、1月20日8時0分の空模様と気温 -9.250℃ #raspberrypi #python #fswebcam #photo #北海道 #オホーツク #イマソラ https://t.co/f2vjp5Sk9M,ラズベリーパイより、1月20日8時0分の空模様と気温 -9.250℃ #raspberrypi #python #fswebcam #photo #北海道 #オホーツク #イマソラ https://t.co/f2vjp5Sk9M,"{'username': 'shima_farm', 'id': 128875980, 'displayname': '島貫農園', 'rawDescription': 'ラズベリーパイから愛を込めて。 定点カメラからの空模様と 温度をつぶやきます。', 'renderedDescription': 'ラズベリーパイから愛を込めて。 定点カメラからの空模様と 温度をつぶやきます。', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2010, 4, 2, 13, 23, 51, tzinfo=datetime.timezone.utc), 'followersCount': 91, 'friendsCount': 31, 'statusesCount': 19360, 'favouritesCount': 1926, 'listedCount': 3, 'mediaCount': 12058, 'location': '日本 北海道', 'protected': False, 'link': {'text': 'shimafarm.blog.fc2.com', 'url': 'http://shimafarm.blog.fc2.com/', 'tcourl': 'https://t.co/yBHhhcxP3n', 'indices': (0, 23)}, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1297111818582683648/0Tm6j8Ar_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/128875980/1598090387', 'label': None}","['raspberrypi', 'python', 'fswebcam', 'photo', '北海道', 'オホーツク', 'イマソラ']",ja
+98,2023-01-19 23:00:09+00:00,1616208921143967745,"2023/01/20 08:00のトレンド1位は #ワールズエッジ !! #python, #Mecab, #wordcloud https://t.co/eb1sdeRTJg","2023/01/20 08:00のトレンド1位は #ワールズエッジ !! #python, #Mecab, #wordcloud https://t.co/eb1sdeRTJg","{'username': 'PythonBot0728', 'id': 1573193826520666113, 'displayname': 'トレンド可視化bot（仮）', 'rawDescription': '2時間おきに日本の #トレンド一位 に関するツイートを可視化します。形態素分析は #Mecab 、データの可視化には #wordcloud を使用。#Python', 'renderedDescription': '2時間おきに日本の #トレンド一位 に関するツイートを可視化します。形態素分析は #Mecab 、データの可視化には #wordcloud を使用。#Python', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 9, 23, 6, 13, 38, tzinfo=datetime.timezone.utc), 'followersCount': 591, 'friendsCount': 2416, 'statusesCount': 1316, 'favouritesCount': 13912, 'listedCount': 2, 'mediaCount': 1307, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1585666179217358848/VgDXG2tv_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1573193826520666113/1666887817', 'label': None}","['ワールズエッジ', 'python', 'Mecab', 'wordcloud']",ja
+99,2023-01-19 23:00:05+00:00,1616208906736308249,"Top 5 category on twitch right now : 
+Just Chatting 🔄 
+Minecraft 🔄 
+Grand Theft Auto V 🔄 
+League of Legends 🔄 
+VALORANT 🔄 
+👍👍🥤 
+ #twitch #gaming #twitchstreamer #livestream #python #bot","Top 5 category on twitch right now : 
+Just Chatting 🔄 
+Minecraft 🔄 
+Grand Theft Auto V 🔄 
+League of Legends 🔄 
+VALORANT 🔄 
+👍👍🥤 
+ #twitch #gaming #twitchstreamer #livestream #python #bot","{'username': 'TopFiveTwitch', 'id': 1539192687152218112, 'displayname': '🤖 Twitch Top 5', 'rawDescription': 'Python Bot for the 5 best category on twitch every 30 minutes.\nFeel free to give me any suggestions :)', 'renderedDescription': 'Python Bot for the 5 best category on twitch every 30 minutes.\nFeel free to give me any suggestions :)', 'descriptionLinks': None, 'verified': False, 'created': datetime.datetime(2022, 6, 21, 10, 25, 14, tzinfo=datetime.timezone.utc), 'followersCount': 277, 'friendsCount': 0, 'statusesCount': 7961, 'favouritesCount': 923, 'listedCount': 0, 'mediaCount': 0, 'location': '', 'protected': False, 'link': None, 'profileImageUrl': 'https://pbs.twimg.com/profile_images/1604706144265465856/vifgU9HL_normal.jpg', 'profileBannerUrl': 'https://pbs.twimg.com/profile_banners/1539192687152218112/1666004011', 'label': {'description': 'Automated', 'url': None, 'badgeUrl': 'https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig', 'longDescription': 'Automated by @Eric_Dev_'}}","['twitch', 'gaming', 'twitchstreamer', 'livestream', 'python', 'bot']",en
