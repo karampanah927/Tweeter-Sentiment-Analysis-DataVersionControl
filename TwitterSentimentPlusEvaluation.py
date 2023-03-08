@@ -50,6 +50,7 @@ print(df['sentiment'])
 sample_tweet = 'I do not mind using Python for data analysis!'
 sample_sentiment = analyze_sentiment(preprocess_text(sample_tweet))
 print(sample_tweet)
+### our output: function: sentiment_result
 result = sentiment_result(sample_sentiment)
 print('Sentiment:', result)
 #### Evaluation
