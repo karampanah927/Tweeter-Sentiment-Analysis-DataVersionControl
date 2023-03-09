@@ -1,3 +1,5 @@
+import pickle
+
 import pandas as pd
 from textblob import TextBlob
 import re
@@ -48,18 +50,22 @@ class TwitterSentimentAnalyzer:
         #### Evaluation
         T = 0
         for i in range(len(self.df_test)):
-            result = self.sentiment_result(self.df_test.iloc[i, 2])
+            result = self.matchresult(self.df_test.iloc[i, 2])
             if result == self.df_testGroundTruth.iloc[i, 4]:
                 T += 1
         print('accuracy = ', round(T / len(self.df_test), 2))
 
-    def sentiment_result(self,score):
+    def matchresult(self, score):
         if score > 0:
             result = 'Positive'
         elif score < 0:
             result = 'Negative'
         else:
             result = 'Neutral'
+        return result
+    def sentiment_result(self,text):
+        score = self.analyze_sentiment(twitterAnalyzer.preprocess_text(text))
+        result = self.matchresult(score)
         return result
 
 
@@ -69,12 +75,18 @@ twitterAnalyzer = TwitterSentimentAnalyzer()
 
 
 # test the sentiment analysis model with a sample tweet
-sample_tweet = 'I do not mind using Python for data analysis!'
-sample_sentiment = twitterAnalyzer.analyze_sentiment(twitterAnalyzer.preprocess_text(sample_tweet))
-print(sample_tweet)
+# sample_tweet = 'I do not mind using Python for data analysis!'
+# sample_sentiment = twitterAnalyzer.analyze_sentiment(twitterAnalyzer.preprocess_text(sample_tweet))
+# print(sample_tweet)
 ### our output: function: sentiment_result
-result = twitterAnalyzer.sentiment_result(sample_sentiment)
-print('Sentiment:', result)
+# result = twitterAnalyzer.matchresult(sample_sentiment)
+# print('Sentiment:', result)
+# print("done")
 
 
+# writing into pickle file
+pickle.dump(TwitterSentimentAnalyzer,open('model.pkl','wb'))
+# reading from pickle file
+model = pickle.load(open('model.pkl','rb'))
+print(model.sentiment_result('I do not mind using Python for data analysis!'))
 print("done")
