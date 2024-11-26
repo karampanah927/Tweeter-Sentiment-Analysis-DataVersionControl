@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project performs sentiment analysis on tweets collected from the internet, using machine learning to classify tweet sentiment. The aim of this project is to analyze public opinion in real-time, providing valuable insights into users' emotions and trends.
+This project performs sentiment analysis on tweets that are collected from the internet, using machine learning to classify tweet sentiment. The aim of this project is to analyze public opinion in real-time, providing valuable insights into users' emotions and trends.
 
 ## Features
 
